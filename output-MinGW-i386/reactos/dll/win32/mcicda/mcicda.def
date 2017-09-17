@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME mcicda.dll
+
+EXPORTS
+ DriverProc=MCICDA_DriverProc@20 PRIVATE

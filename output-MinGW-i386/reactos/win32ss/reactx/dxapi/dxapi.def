@@ -1,0 +1,12 @@
+; File generated automatically, do not edit!
+
+NAME dxapi.sys
+
+EXPORTS
+ _DxApi@20=DxApi@20
+ _DxApiGetVersion@0=DxApiGetVersion@0
+ _DxApiInitialize@32=DxApiInitialize@32
+ _DxAutoflipUpdate@20=DxAutoflipUpdate@20
+ _DxEnableIRQ@8=DxEnableIRQ@8
+ _DxLoseObject@8=DxLoseObject@8
+ _DxUpdateCapture@12=DxUpdateCapture@12

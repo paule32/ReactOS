@@ -1,0 +1,10 @@
+; File generated automatically, do not edit!
+
+NAME normaliz.dll
+
+EXPORTS
+ IdnToAscii=IdnToAscii@20
+ IdnToNameprepUnicode=IdnToNameprepUnicode@20
+ IdnToUnicode=IdnToUnicode@20
+ IsNormalizedString=IsNormalizedString@12
+ NormalizeString=NormalizeString@20

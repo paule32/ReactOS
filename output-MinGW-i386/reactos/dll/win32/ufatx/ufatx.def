@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME ufatx.dll
+
+EXPORTS
+ ChkdskEx=VfatxChkdsk@24
+ FormatEx=VfatxFormat@24

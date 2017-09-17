@@ -1,0 +1,53 @@
+; File generated automatically, do not edit!
+
+NAME cryptui.dll
+
+EXPORTS
+ ACUIProviderInvokeUI @1
+ CryptUIDlgCertMgr=CryptUIDlgCertMgr@4 @2
+ CryptUIDlgFreeCAContext @3
+ CryptUIDlgSelectCA @4
+ CryptUIDlgSelectCertificateA=CryptUIDlgSelectCertificateA@4 @5
+ CryptUIDlgSelectCertificateFromStore=CryptUIDlgSelectCertificateFromStore@28 @6
+ CryptUIDlgSelectCertificateW=CryptUIDlgSelectCertificateW@4 @7
+ CryptUIDlgSelectStoreA=CryptUIDlgSelectStoreA@4 @8
+ CryptUIDlgSelectStoreW=CryptUIDlgSelectStoreW@4 @9
+ CryptUIDlgViewCRLA @10
+ CryptUIDlgViewCRLW @11
+ CryptUIDlgViewCTLA @12
+ CryptUIDlgViewCTLW @13
+ CryptUIDlgViewCertificateA=CryptUIDlgViewCertificateA@8 @14
+ CryptUIDlgViewCertificatePropertiesA @15
+ CryptUIDlgViewCertificatePropertiesW @16
+ CryptUIDlgViewCertificateW=CryptUIDlgViewCertificateW@8 @17
+ CryptUIDlgViewContext=CryptUIDlgViewContext@24 @18
+ CryptUIDlgViewSignerInfoA=CryptUIDlgViewSignerInfoA@4 @19
+ CryptUIDlgViewSignerInfoW @20
+ CryptUIFreeCertificatePropertiesPagesA @21
+ CryptUIFreeCertificatePropertiesPagesW @22
+ CryptUIFreeViewSignaturesPagesA @23
+ CryptUIFreeViewSignaturesPagesW @24
+ CryptUIGetCertificatePropertiesPagesA @25
+ CryptUIGetCertificatePropertiesPagesW @26
+ CryptUIGetViewSignaturesPagesA @27
+ CryptUIGetViewSignaturesPagesW @28
+ CryptUIStartCertMgr @29
+ CryptUIWizBuildCTL @30
+ CryptUIWizCertRequest @31
+ CryptUIWizCreateCertRequestNoDS @32
+ CryptUIWizDigitalSign=CryptUIWizDigitalSign@20 @33
+ CryptUIWizExport=CryptUIWizExport@20 @34
+ CryptUIWizFreeCertRequestNoDS @35
+ CryptUIWizFreeDigitalSignContext @36
+ CryptUIWizImport=CryptUIWizImport@20 @37
+ CryptUIWizQueryCertRequestNoDS @38
+ CryptUIWizSubmitCertRequestNoDS @39
+ DllRegisterServer PRIVATE
+ DllUnregisterServer PRIVATE
+ EnrollmentCOMObjectFactory_getInstance @42
+ I_CryptUIProtect @43
+ I_CryptUIProtectFailure @44
+ LocalEnroll @45
+ LocalEnrollNoDS @46
+ RetrievePKCS7FromCA @47
+ WizardFree @48

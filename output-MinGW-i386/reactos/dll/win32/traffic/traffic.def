@@ -1,0 +1,26 @@
+; File generated automatically, do not edit!
+
+NAME traffic.dll
+
+EXPORTS
+ TcAddClassMap
+ TcAddFilter
+ TcAddFlow
+ TcCloseInterface
+ TcDeleteFilter
+ TcDeleteFlow
+ TcDeregisterClient=TcDeregisterClient@4
+ TcEnumerateFlows
+ TcEnumerateInterfaces
+ TcGetFlowNameA
+ TcGetFlowNameW
+ TcModifyFlow
+ TcOpenInterfaceA
+ TcOpenInterfaceW
+ TcQueryFlowA
+ TcQueryFlowW
+ TcQueryInterface
+ TcRegisterClient=TcRegisterClient@16
+ TcSetFlowA
+ TcSetFlowW
+ TcSetInterface

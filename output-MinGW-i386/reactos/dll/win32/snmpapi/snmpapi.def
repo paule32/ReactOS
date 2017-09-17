@@ -1,0 +1,50 @@
+; File generated automatically, do not edit!
+
+NAME snmpapi.dll
+
+EXPORTS
+ SnmpSvcAddrIsIpx
+ SnmpSvcAddrToSocket
+ SnmpSvcBufRevAndCpy
+ SnmpSvcBufRevInPlace
+ SnmpSvcDecodeMessage
+ SnmpSvcEncodeMessage
+ SnmpSvcGenerateAuthFailTrap
+ SnmpSvcGenerateColdStartTrap
+ SnmpSvcGenerateLinkDownTrap
+ SnmpSvcGenerateLinkUpTrap
+ SnmpSvcGenerateTrap
+ SnmpSvcGenerateWarmStartTrap
+ SnmpSvcGetEnterpriseOID
+ SnmpSvcGetUptime=SnmpSvcGetUptime@0
+ SnmpSvcInitUptime
+ SnmpSvcReleaseMessage
+ SnmpSvcReportEvent
+ SnmpSvcSetLogLevel
+ SnmpSvcSetLogType
+ SnmpUtilAnsiToUnicode
+ SnmpUtilAsnAnyCpy=SnmpUtilAsnAnyCpy@8
+ SnmpUtilAsnAnyFree=SnmpUtilAsnAnyFree@4
+ SnmpUtilDbgPrint
+ SnmpUtilIdsToA=SnmpUtilIdsToA@8
+ SnmpUtilMemAlloc=SnmpUtilMemAlloc@4
+ SnmpUtilMemFree=SnmpUtilMemFree@4
+ SnmpUtilMemReAlloc=SnmpUtilMemReAlloc@8
+ SnmpUtilOctetsCmp=SnmpUtilOctetsCmp@8
+ SnmpUtilOctetsCpy=SnmpUtilOctetsCpy@8
+ SnmpUtilOctetsFree=SnmpUtilOctetsFree@4
+ SnmpUtilOctetsNCmp=SnmpUtilOctetsNCmp@12
+ SnmpUtilOidAppend=SnmpUtilOidAppend@8
+ SnmpUtilOidCmp=SnmpUtilOidCmp@8
+ SnmpUtilOidCpy=SnmpUtilOidCpy@8
+ SnmpUtilOidFree=SnmpUtilOidFree@4
+ SnmpUtilOidNCmp=SnmpUtilOidNCmp@12
+ SnmpUtilOidToA=SnmpUtilOidToA@4
+ SnmpUtilPrintAsnAny=SnmpUtilPrintAsnAny@4
+ SnmpUtilPrintOid=SnmpUtilPrintOid@4
+ SnmpUtilStrlenW
+ SnmpUtilUnicodeToAnsi
+ SnmpUtilVarBindCpy=SnmpUtilVarBindCpy@8
+ SnmpUtilVarBindFree=SnmpUtilVarBindFree@4
+ SnmpUtilVarBindListCpy=SnmpUtilVarBindListCpy@8
+ SnmpUtilVarBindListFree=SnmpUtilVarBindListFree@4

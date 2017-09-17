@@ -1,0 +1,28 @@
+; File generated automatically, do not edit!
+
+NAME ws2help.dll
+
+EXPORTS
+ WahCloseApcHelper=WahCloseApcHelper@4
+ WahCloseHandleHelper=WahCloseHandleHelper@4
+ WahCloseNotificationHandleHelper=WahCloseNotificationHandleHelper@4
+ WahCloseSocketHandle=WahCloseSocketHandle@8
+ WahCloseThread=WahCloseThread@8
+ WahCompleteRequest=WahCompleteRequest@20
+ WahCreateHandleContextTable=WahCreateHandleContextTable@4
+ WahCreateNotificationHandle=WahCreateNotificationHandle@8
+ WahCreateSocketHandle=WahCreateSocketHandle@8
+ WahDestroyHandleContextTable=WahDestroyHandleContextTable@4
+ WahDisableNonIFSHandleSupport=WahDisableNonIFSHandleSupport@0
+ WahEnableNonIFSHandleSupport=WahEnableNonIFSHandleSupport@0
+ WahEnumerateHandleContexts=WahEnumerateHandleContexts@12
+ WahInsertHandleContext=WahInsertHandleContext@8
+ WahNotifyAllProcesses=WahNotifyAllProcesses@4
+ WahOpenApcHelper=WahOpenApcHelper@4
+ WahOpenCurrentThread=WahOpenCurrentThread@8
+ WahOpenHandleHelper=WahOpenHandleHelper@4
+ WahOpenNotificationHandleHelper=WahOpenNotificationHandleHelper@4
+ WahQueueUserApc=WahQueueUserApc@16
+ WahReferenceContextByHandle=WahReferenceContextByHandle@8
+ WahRemoveHandleContext=WahRemoveHandleContext@8
+ WahWaitForNotification=WahWaitForNotification@16

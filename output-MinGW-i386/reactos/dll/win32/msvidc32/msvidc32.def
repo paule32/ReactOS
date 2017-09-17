@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME msvidc32.dll
+
+EXPORTS
+ DriverProc=CRAM_DriverProc@20 PRIVATE

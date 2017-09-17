@@ -1,0 +1,41 @@
+; File generated automatically, do not edit!
+
+NAME rasdlg.dll
+
+EXPORTS
+ DwTerminalDlg
+ GetRasDialOutProtocols
+ RasAutodialDisableDlgA
+ RasAutodialDisableDlgW
+ RasAutodialQueryDlgA
+ RasAutodialQueryDlgW
+ RasDialDlgA=RasDialDlgA@16
+ RasDialDlgW=RasDialDlgW@16
+ RasEntryDlgA=RasEntryDlgA@12
+ RasEntryDlgW=RasEntryDlgW@12
+ RasMonitorDlgA=RasMonitorDlgA@8
+ RasMonitorDlgW=RasMonitorDlgW@8
+ RasPhonebookDlgA=RasPhonebookDlgA@12
+ RasPhonebookDlgW=RasPhonebookDlgW@12
+ RasSrvAddPropPages
+ RasSrvAddWizPages
+ RasSrvAllowConnectionsConfig
+ RasSrvCleanupService
+ RasSrvEnumConnections
+ RasSrvHangupConnection
+ RasSrvInitializeService
+ RasSrvIsConnectionConnected
+ RasSrvIsServiceRunning
+ RasSrvQueryShowIcon
+ RasUserEnableManualDial
+ RasUserGetManualDial
+ RasUserPrefsDlg
+ RasWizCreateNewEntry
+ RasWizGetNCCFlags
+ RasWizGetSuggestedEntryName
+ RasWizGetUserInputConnectionName
+ RasWizIsEntryRenamable
+ RasWizQueryMaxPageCount
+ RasWizSetEntryName
+ RouterEntryDlgA
+ RouterEntryDlgW

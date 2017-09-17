@@ -1,0 +1,28 @@
+; File generated automatically, do not edit!
+
+NAME printui.dll
+
+EXPORTS
+ ConnectToPrinterDlg
+ ConnectToPrinterPropertyPage
+ ConstructPrinterFriendlyName
+ DllCanUnloadNow PRIVATE
+ DllGetClassObject PRIVATE
+ DocumentPropertiesWrap
+ PnPInterface
+ PrintNotifyTray_Exit
+ PrintNotifyTray_Init
+ PrintUIEntryW=PrintUIEntryW@16
+ PrinterPropPageProvider
+ RegisterPrintNotify
+ ShowErrorMessageHR
+ ShowErrorMessageSC
+ UnregisterPrintNotify
+ bFolderEnumPrinters
+ bFolderGetPrinter
+ bFolderRefresh
+ bPrinterSetup=bPrinterSetup@24
+ vDocumentDefaults
+ vPrinterPropPages
+ vQueueCreate
+ vServerPropPages

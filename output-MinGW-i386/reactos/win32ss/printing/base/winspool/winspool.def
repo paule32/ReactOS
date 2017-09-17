@@ -1,0 +1,205 @@
+; File generated automatically, do not edit!
+
+NAME winspool.drv
+
+EXPORTS
+ EnumPrinterPropertySheets @100 NONAME
+ ClusterSplOpen @101 NONAME
+ ClusterSplClose @102 NONAME
+ ClusterSplIsAlive @103 NONAME
+ PerfClose @104
+ PerfCollect @105
+ PerfOpen @106
+ ADVANCEDSETUPDIALOG @107
+ AbortPrinter @108
+ AddFormA @109
+ AddFormW @110
+ AddJobA=AddJobA@20 @111
+ AddJobW=AddJobW@20 @112
+ AddMonitorA @113
+ AddMonitorW=AddMonitorW@12 @114
+ AddPortA @115
+ AddPortExA @116
+ AddPortExW @117
+ AddPortW=AddPortW@12 @118
+ AddPrintProcessorA @119
+ AddPrintProcessorW=AddPrintProcessorW@16 @120
+ AddPrintProvidorA @121
+ AddPrintProvidorW=AddPrintProvidorW@12 @122
+ AddPrinterA @123
+ AddPrinterConnectionA @124
+ AddPrinterConnectionW @125
+ AddPrinterDriverA @126
+ AddPrinterDriverExA @127
+ AddPrinterDriverExW @128
+ AddPrinterDriverW=AddPrinterDriverW@12 @129
+ AddPrinterW=AddPrinterW@12 @130
+ AdvancedDocumentPropertiesA @131
+ AdvancedDocumentPropertiesW=AdvancedDocumentPropertiesW@20 @132
+ AdvancedSetupDialog @133
+ ClosePrinter=ClosePrinter@4 @134
+ CloseSpoolFileHandle @135
+ CommitSpoolData @136
+ ConfigurePortA @137
+ ConfigurePortW=ConfigurePortW@12 @138
+ ConnectToPrinterDlg @139
+ ConvertAnsiDevModeToUnicodeDevmode @140
+ ConvertUnicodeDevModeToAnsiDevmode @141
+ CreatePrinterIC @142
+ DEVICECAPABILITIES @143
+ DEVICEMODE @144
+ DeleteFormA @145
+ DeleteFormW @146
+ DeleteMonitorA @147
+ DeleteMonitorW=DeleteMonitorW@12 @148
+ DeletePortA @149
+ DeletePortW=DeletePortW@12 @150
+ DeletePrintProcessorA @151
+ DeletePrintProcessorW=DeletePrintProcessorW@12 @152
+ DeletePrintProvidorA @153
+ DeletePrintProvidorW=DeletePrintProvidorW@12 @154
+ DeletePrinter @155
+ DeletePrinterConnectionA @156
+ DeletePrinterConnectionW @157
+ DeletePrinterDataA @158
+ DeletePrinterDataExA @159
+ DeletePrinterDataExW @160
+ DeletePrinterDataW @161
+ DeletePrinterDriverA @162
+ DeletePrinterDriverExA @163
+ DeletePrinterDriverExW @164
+ DeletePrinterDriverW=DeletePrinterDriverW@12 @165
+ DeletePrinterIC @166
+ DeletePrinterKeyA @167
+ DeletePrinterKeyW @168
+ DevQueryPrint @169
+ DevQueryPrintEx @170
+ DeviceCapabilities @171
+ DeviceCapabilitiesA=DeviceCapabilitiesA@20 @172
+ DeviceCapabilitiesW=DeviceCapabilitiesW@20 @173
+ DeviceMode @174
+ DevicePropertySheets @175
+ DocumentEvent @176
+ DocumentPropertiesA=DocumentPropertiesA@24 @177
+ DocumentPropertiesW=DocumentPropertiesW@24 @178
+ DocumentPropertySheets @179
+ EXTDEVICEMODE @180
+ EndDocPrinter=EndDocPrinter@4 @181
+ EndPagePrinter=EndPagePrinter@4 @182
+ EnumFormsA @183
+ EnumFormsW @184
+ EnumJobsA=EnumJobsA@32 @185
+ EnumJobsW=EnumJobsW@32 @186
+ EnumMonitorsA @187
+ EnumMonitorsW=EnumMonitorsW@24 @188
+ EnumPortsA @189
+ EnumPortsW=EnumPortsW@24 @190
+ EnumPrintProcessorDatatypesA=EnumPrintProcessorDatatypesA@28 @191
+ EnumPrintProcessorDatatypesW=EnumPrintProcessorDatatypesW@28 @192
+ EnumPrintProcessorsA @193
+ EnumPrintProcessorsW=EnumPrintProcessorsW@28 @194
+ EnumPrinterDataA @195
+ EnumPrinterDataExA @196
+ EnumPrinterDataExW @197
+ EnumPrinterDataW @198
+ EnumPrinterDriversA @199
+ EnumPrinterDriversW=EnumPrinterDriversW@28 @200
+ GetDefaultPrinterA=GetDefaultPrinterA@8 @201
+ SetDefaultPrinterA=SetDefaultPrinterA@4 @202
+ GetDefaultPrinterW=GetDefaultPrinterW@8 @203
+ SetDefaultPrinterW=SetDefaultPrinterW@4 @204
+ SplReadPrinter @205 NONAME
+ AddPerMachineConnectionA @206 NONAME
+ AddPerMachineConnectionW @207 NONAME
+ DeletePerMachineConnectionA @208 NONAME
+ DeletePerMachineConnectionW @209 NONAME
+ EnumPerMachineConnectionsA @210 NONAME
+ EnumPerMachineConnectionsW @211 NONAME
+ LoadPrinterDriver @212 NONAME
+ RefCntLoadDriver @213 NONAME
+ RefCntUnloadDriver @214 NONAME
+ ForceUnloadDriver @215 NONAME
+ PublishPrinterA @216 NONAME
+ PublishPrinterW @217 NONAME
+ CallCommonPropertySheetUI @218 NONAME
+ PrintUIQueueCreate @219 NONAME
+ PrintUIPrinterPropPages @220 NONAME
+ PrintUIDocumentDefaults @221 NONAME
+ SendRecvBidiData @222 NONAME
+ RouterFreeBidiResponseContainer @223 NONAME
+ ExternalConnectToLd64In32Server @224 NONAME
+ EnumPrinterKeyA @225
+ PrintUIWebPnpEntry @226 NONAME
+ PrintUIWebPnpPostEntry @227 NONAME
+ PrintUICreateInstance @228 NONAME
+ PrintUIDocumentPropertiesWrap @229 NONAME
+ PrintUIPrinterSetup @230 NONAME
+ PrintUIServerPropPages @231 NONAME
+ AddDriverCatalog @232 NONAME
+ EnumPrinterKeyW @233
+ EnumPrintersA=EnumPrintersA@28 @234
+ EnumPrintersW=EnumPrintersW@28 @235
+ ExtDeviceMode @236
+ FindClosePrinterChangeNotification @237
+ FindFirstPrinterChangeNotification @238
+ FindNextPrinterChangeNotification @239
+ FlushPrinter @240
+ FreePrinterNotifyInfo @241
+ GetFormA @242
+ GetFormW @243
+ GetJobA=GetJobA@24 @244
+ GetJobW=GetJobW@24 @245
+ GetPrintProcessorDirectoryA=GetPrintProcessorDirectoryA@24 @246
+ GetPrintProcessorDirectoryW=GetPrintProcessorDirectoryW@24 @247
+ GetPrinterA=GetPrinterA@20 @248
+ GetPrinterDataA=GetPrinterDataA@24 @249
+ GetPrinterDataExA=GetPrinterDataExA@28 @250
+ GetPrinterDataExW=GetPrinterDataExW@28 @251
+ GetPrinterDataW=GetPrinterDataW@24 @252
+ GetPrinterDriverA=GetPrinterDriverA@24 @253
+ GetPrinterDriverDirectoryA=GetPrinterDriverDirectoryA@24 @254
+ GetPrinterDriverDirectoryW=GetPrinterDriverDirectoryW@24 @255
+ GetPrinterDriverW=GetPrinterDriverW@24 @256
+ GetPrinterW=GetPrinterW@20 @257
+ GetSpoolFileHandle @258
+ IsValidDevmodeA=IsValidDevmodeA@8 @259
+ IsValidDevmodeW=IsValidDevmodeW@8 @260
+ OpenPrinterA=OpenPrinterA@12 @261
+ OpenPrinterW=OpenPrinterW@12 @262
+ PlayGdiScriptOnPrinterIC @263
+ PrinterMessageBoxA @264
+ PrinterMessageBoxW @265
+ PrinterProperties @266
+ QueryColorProfile @267
+ QueryRemoteFonts @268
+ QuerySpoolMode @269
+ ReadPrinter=ReadPrinter@16 @270
+ ResetPrinterA @271
+ ResetPrinterW=ResetPrinterW@8 @272
+ ScheduleJob=ScheduleJob@8 @273
+ SeekPrinter @274
+ SetAllocFailCount @275
+ SetFormA @276
+ SetFormW @277
+ SetJobA=SetJobA@20 @278
+ SetJobW=SetJobW@20 @279
+ SetPortA @280
+ SetPortW @281
+ SetPrinterA @282
+ SetPrinterDataA=SetPrinterDataA@20 @283
+ SetPrinterDataExA=SetPrinterDataExA@24 @284
+ SetPrinterDataExW=SetPrinterDataExW@24 @285
+ SetPrinterDataW=SetPrinterDataW@20 @286
+ SetPrinterW=SetPrinterW@16 @287
+ SplDriverUnloadComplete @288
+ SpoolerDevQueryPrintW @289
+ SpoolerInit=SpoolerInit@0 @290
+ SpoolerPrinterEvent @291
+ StartDocDlgA @292
+ StartDocDlgW @293
+ StartDocPrinterA=StartDocPrinterA@12 @294
+ StartDocPrinterW=StartDocPrinterW@12 @295
+ StartPagePrinter=StartPagePrinter@4 @296
+ WaitForPrinterChange @297
+ WritePrinter=WritePrinter@16 @298
+ XcvDataW=XcvDataW@32 @299

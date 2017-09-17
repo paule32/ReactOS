@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME input.dll
+
+EXPORTS
+ CPlApplet=CPlApplet@16

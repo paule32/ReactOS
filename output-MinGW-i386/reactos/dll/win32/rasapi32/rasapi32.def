@@ -1,0 +1,131 @@
+; File generated automatically, do not edit!
+
+NAME rasapi32.dll
+
+EXPORTS
+ RasAutodialAddressToNetwork
+ RasAutodialEntryToNetwork
+ RasConnectionNotificationA=RasConnectionNotificationA@12
+ RasConnectionNotificationW=RasConnectionNotificationW@12
+ RasCreatePhonebookEntryA=RasCreatePhonebookEntryA@8
+ RasCreatePhonebookEntryW=RasCreatePhonebookEntryW@8
+ RasDeleteEntryA=RasDeleteEntryA@8
+ RasDeleteEntryW=RasDeleteEntryW@8
+ RasDeleteSubEntryA=RasDeleteSubEntryA@12
+ RasDeleteSubEntryW=RasDeleteSubEntryW@12
+ RasDialA=RasDialA@24
+ RasDialW=RasDialW@24
+ RasDialWow
+ RasEditPhonebookEntryA=RasEditPhonebookEntryA@12
+ RasEditPhonebookEntryW=RasEditPhonebookEntryW@12
+ RasEnumAutodialAddressesA=RasEnumAutodialAddressesA@12
+ RasEnumAutodialAddressesW=RasEnumAutodialAddressesW@12
+ RasEnumConnectionsA=RasEnumConnectionsA@12
+ RasEnumConnectionsW=RasEnumConnectionsW@12
+ RasEnumConnectionsWow
+ RasEnumDevicesA=RasEnumDevicesA@12
+ RasEnumDevicesW=RasEnumDevicesW@12
+ RasEnumEntriesA=RasEnumEntriesA@20
+ RasEnumEntriesW=RasEnumEntriesW@20
+ RasEnumEntriesWow
+ RasGetAutodialAddressA=RasGetAutodialAddressA@20
+ RasGetAutodialAddressW=RasGetAutodialAddressW@20
+ RasGetAutodialEnableA=RasGetAutodialEnableA@8
+ RasGetAutodialEnableW=RasGetAutodialEnableW@8
+ RasGetAutodialParamA=RasGetAutodialParamA@12
+ RasGetAutodialParamW=RasGetAutodialParamW@12
+ RasGetConnectResponse
+ RasGetConnectStatusA=RasGetConnectStatusA@8
+ RasGetConnectStatusW=RasGetConnectStatusW@8
+ RasGetConnectStatusWow
+ RasGetCountryInfoA
+ RasGetCountryInfoW
+ RasGetCredentialsA
+ RasGetCredentialsW
+ RasGetEntryDialParamsA=RasGetEntryDialParamsA@12
+ RasGetEntryDialParamsW=RasGetEntryDialParamsW@12
+ RasGetEntryPropertiesA=RasGetEntryPropertiesA@24
+ RasGetEntryPropertiesW=RasGetEntryPropertiesW@24
+ RasGetErrorStringA=RasGetErrorStringA@12
+ RasGetErrorStringW=RasGetErrorStringW@12
+ RasGetErrorStringWow
+ RasGetHport
+ RasGetLinkStatistics=RasGetLinkStatistics@12
+ RasGetProjectionInfoA=RasGetProjectionInfoA@16
+ RasGetProjectionInfoW=RasGetProjectionInfoW@16
+ RasGetSubEntryHandleA
+ RasGetSubEntryHandleW
+ RasGetSubEntryPropertiesA
+ RasGetSubEntryPropertiesW
+ RasHangUpA=RasHangUpA@4
+ RasHangUpW=RasHangUpW@4
+ RasHangUpWow
+ RasRenameEntryA=RasRenameEntryA@12
+ RasRenameEntryW=RasRenameEntryW@12
+ RasSetAutodialAddressA=RasSetAutodialAddressA@20
+ RasSetAutodialAddressW=RasSetAutodialAddressW@20
+ RasSetAutodialEnableA=RasSetAutodialEnableA@8
+ RasSetAutodialEnableW=RasSetAutodialEnableW@8
+ RasSetAutodialParamA=RasSetAutodialParamA@12
+ RasSetAutodialParamW=RasSetAutodialParamW@12
+ RasSetCredentialsA
+ RasSetCredentialsW
+ RasSetCustomAuthDataA=RasSetCustomAuthDataA@16
+ RasSetCustomAuthDataW=RasSetCustomAuthDataW@16
+ RasSetEntryDialParamsA=RasSetEntryDialParamsA@12
+ RasSetEntryDialParamsW=RasSetEntryDialParamsW@12
+ RasSetEntryPropertiesA=RasSetEntryPropertiesA@24
+ RasSetEntryPropertiesW=RasSetEntryPropertiesW@24
+ RasSetOldPassword
+ RasSetSubEntryPropertiesA=RasSetSubEntryPropertiesA@28
+ RasSetSubEntryPropertiesW=RasSetSubEntryPropertiesW@28
+ RasValidateEntryNameA=RasValidateEntryNameA@8
+ RasValidateEntryNameW=RasValidateEntryNameW@8
+ RnaEngineRequest @500
+ DialEngineRequest @501
+ SuprvRequest @502
+ DialInMessage @503
+ RnaEnumConnEntries @504
+ RnaGetConnEntry @505
+ RnaFreeConnEntry @506
+ RnaSaveConnEntry @507
+ RnaDeleteConnEntry @508
+ RnaRenameConnEntry @509
+ RnaValidateEntryName @510
+ RnaEnumDevices @511
+ RnaGetDeviceInfo @512
+ RnaGetDefaultDevConfig @513
+ RnaBuildDevConfig @514
+ RnaDevConfigDlg @515
+ RnaFreeDevConfig @516
+ RnaActivateEngine @517
+ RnaDeactivateEngine @518
+ SuprvEnumAccessInfo @519
+ SuprvGetAccessInfo @520
+ SuprvSetAccessInfo @521
+ SuprvGetAdminConfig @522
+ SuprvInitialize @523
+ SuprvDeInitialize @524
+ RnaUIDial @525
+ RnaImplicitDial @526
+ RasDial16 @527
+ RnaSMMInfoDialog @528
+ RnaEnumerateMacNames @529
+ RnaEnumCountryInfo @530
+ RnaGetAreaCodeList @531
+ RnaFindDriver @532
+ RnaInstallDriver @533
+ RnaGetDialSettings @534
+ RnaSetDialSettings @535
+ RnaGetIPInfo @536
+ RnaSetIPInfo @537
+ RnaCloseMac @560
+ RnaComplete @561
+ RnaGetDevicePort @562
+ RnaGetUserProfile @563
+ RnaOpenMac @564
+ RnaSessInitialize @565
+ RnaStartCallback @566
+ RnaTerminate @567
+ RnaUICallbackDialog @568
+ RnaUIUsernamePassword @569

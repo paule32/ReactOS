@@ -1,0 +1,10 @@
+; File generated automatically, do not edit!
+
+NAME desk.cpl
+
+EXPORTS
+ CPlApplet=CPlApplet@16
+ DisplayClassInstaller=DisplayClassInstaller@12
+ DisplaySaveSettings=DisplaySaveSettings@8
+ InstallScreenSaverW=InstallScreenSaverW@16
+ InstallScreenSaverA=InstallScreenSaverA@16

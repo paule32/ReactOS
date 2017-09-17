@@ -1,0 +1,48 @@
+; File generated automatically, do not edit!
+
+NAME ntlanman.dll
+
+EXPORTS
+ Ordinal1 @1 NONAME
+ Ordinal2 @2 NONAME
+ Ordinal3 @3 NONAME
+ Ordinal4 @4 NONAME
+ Ordinal5 @5 NONAME
+ Ordinal6 @6 NONAME
+ Ordinal7 @7 NONAME
+ Ordinal8 @8 NONAME
+ Ordinal9 @9 NONAME
+ Ordinal10 @10 NONAME
+ Ordinal11 @11 NONAME
+ NPGetConnection=NPGetConnection@12 @12
+ NPGetCaps=NPGetCaps@4 @13
+ DllMain=DllMain@12 @14
+ I_SystemFocusDialog @15
+ NPGetUser=NPGetUser@12 @16
+ NPAddConnection=NPAddConnection@12 @17
+ NPCancelConnection=NPCancelConnection@8 @18
+ IsDfsPathEx @19
+ NPAddConnection3ForCSCAgent @20
+ NPCancelConnectionForCSCAgent @21
+ ServerBrowseDialogA0 @22
+ ShareAsDialogA0 @23
+ ShareCreate @24
+ ShareManage @25
+ ShareStop @26
+ StopShareDialogA0 @27
+ Ordinal28 @28 NONAME
+ NPPropertyDialog=NPPropertyDialog@20 @29
+ NPGetDirectoryType=NPGetDirectoryType@12 @30
+ NPDirectoryNotify=NPDirectoryNotify@12 @31
+ NPGetPropertyText=NPGetPropertyText@24 @32
+ NPOpenEnum=NPOpenEnum@20 @33
+ NPEnumResource=NPEnumResource@16 @34
+ NPCloseEnum=NPCloseEnum@4 @35
+ NPFormatNetworkName=NPFormatNetworkName@20 @36
+ Ordinal37 @37 NONAME
+ NPAddConnection3=NPAddConnection3@20 @38
+ Ordinal39 @39 NONAME
+ NPGetUniversalName=NPGetUniversalName@16 @40
+ NPGetResourceParent=NPGetResourceParent@12 @41
+ Ordinal42 @42 NONAME
+ Ordinal43 @43 NONAME

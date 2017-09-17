@@ -1,0 +1,33 @@
+; File generated automatically, do not edit!
+
+NAME ddraw.dll
+
+EXPORTS
+ DDHAL32_VidMemAlloc
+ DDHAL32_VidMemFree
+ DDInternalLock
+ DDInternalUnlock
+ DSoundHelp
+ DirectDrawCreate=DirectDrawCreate@12
+ DirectDrawCreateClipper=DirectDrawCreateClipper@12
+ DirectDrawCreateEx=DirectDrawCreateEx@16
+ DirectDrawEnumerateA=DirectDrawEnumerateA@8
+ DirectDrawEnumerateExA=DirectDrawEnumerateExA@12
+ DirectDrawEnumerateExW=DirectDrawEnumerateExW@12
+ DirectDrawEnumerateW=DirectDrawEnumerateW@8
+ DllCanUnloadNow=DllCanUnloadNow@0 PRIVATE
+ DllGetClassObject=DllGetClassObject@12 PRIVATE
+ DllRegisterServer=DllRegisterServer@0 PRIVATE
+ DllUnregisterServer=DllUnregisterServer@0 PRIVATE
+ GetNextMipMap
+ GetSurfaceFromDC
+ HeapVidMemAllocAligned
+ InternalLock
+ InternalUnlock
+ LateAllocateSurfaceMem
+ VidMemAlloc
+ VidMemAmountFree
+ VidMemFini
+ VidMemFree
+ VidMemInit
+ VidMemLargestFree

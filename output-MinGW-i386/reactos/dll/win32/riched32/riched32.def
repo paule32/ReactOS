@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME riched32.dll
+
+EXPORTS
+ DllGetVersion=DllGetVersion@4 @2 PRIVATE

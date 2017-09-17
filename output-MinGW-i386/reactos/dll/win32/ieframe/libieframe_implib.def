@@ -1,0 +1,12 @@
+; File generated automatically, do not edit!
+
+NAME ieframe.dll
+
+EXPORTS
+ IEWinMain@8 @101 NONAME
+ DllCanUnloadNow@0 PRIVATE
+ DllGetClassObject@12 PRIVATE
+ DllRegisterServer@0 PRIVATE
+ DllUnregisterServer@0 PRIVATE
+ IEGetWriteableHKCU@4
+ OpenURL@16

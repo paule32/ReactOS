@@ -1,0 +1,19 @@
+; File generated automatically, do not edit!
+
+NAME shimgvw.dll
+
+EXPORTS
+ ImageView_COMServer
+ ImageView_Fullscreen=ImageView_Fullscreen@16
+ ImageView_FullscreenA=ImageView_FullscreenA@16
+ ImageView_FullscreenW=ImageView_FullscreenW@16
+ ImageView_PrintTo=ImageView_PrintTo@16
+ ImageView_PrintToA=ImageView_PrintToA@16
+ ImageView_PrintToW=ImageView_PrintToW@16
+ imageview_fullscreenW=ImageView_FullscreenW@16
+ ConvertDIBSECTIONToThumbnail
+ DllCanUnloadNow=DllCanUnloadNow@0 PRIVATE
+ DllGetClassObject=DllGetClassObject@12 PRIVATE
+ DllInstall PRIVATE
+ DllRegisterServer=DllRegisterServer@0 PRIVATE
+ DllUnregisterServer=DllUnregisterServer@0 PRIVATE

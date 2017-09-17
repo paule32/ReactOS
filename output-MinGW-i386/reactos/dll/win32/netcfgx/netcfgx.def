@@ -1,0 +1,21 @@
+; File generated automatically, do not edit!
+
+NAME netcfgx.dll
+
+EXPORTS
+ DllCanUnloadNow=DllCanUnloadNow@0 PRIVATE
+ DllGetClassObject=DllGetClassObject@12 PRIVATE
+ DllRegisterServer=DllRegisterServer@0 PRIVATE
+ DllUnregisterServer=DllUnregisterServer@0 PRIVATE
+ HrDiAddComponentToINetCfg @6
+ LanaCfgFromCommandArgs @7
+ ModemClassCoInstaller @8
+ NetCfgDiagFromCommandArgs @9
+ NetCfgDiagRepairRegistryBindings @10
+ NetClassInstaller=NetClassInstaller@12 @11
+ NetPropPageProvider @12
+ RasAddBindings @13
+ RasCountBindings @14
+ RasRemoveBindings @15
+ SvchostChangeSvchostGroup @16
+ UpdateLanaConfigUsingAnswerfile @17

@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME odbccp32i.cpl
+
+EXPORTS
+ CPlApplet=CPlApplet@16

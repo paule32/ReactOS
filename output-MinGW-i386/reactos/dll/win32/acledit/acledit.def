@@ -1,0 +1,13 @@
+; File generated automatically, do not edit!
+
+NAME acledit.dll
+
+EXPORTS
+ EditAuditInfo=EditAuditInfo@4 @1
+ EditOwnerInfo=EditOwnerInfo@4 @2
+ EditPermissionInfo=EditPermissionInfo@4 @3
+ DllMain=DllMain@12 @4
+ FMExtensionProcW=FMExtensionProcW@12 @5
+ SedDiscretionaryAclEditor=SedDiscretionaryAclEditor@52 @6
+ SedSystemAclEditor=SedSystemAclEditor@48 @7
+ SedTakeOwnership=SedTakeOwnership@56 @8

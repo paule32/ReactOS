@@ -1,0 +1,10 @@
+; File generated automatically, do not edit!
+
+NAME dinput8.dll
+
+EXPORTS
+ DirectInput8Create@20
+ DllCanUnloadNow@0 PRIVATE
+ DllGetClassObject@12 PRIVATE
+ DllRegisterServer@0 PRIVATE
+ DllUnregisterServer@0 PRIVATE

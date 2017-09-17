@@ -1,0 +1,12 @@
+; File generated automatically, do not edit!
+
+NAME sndblst.dll
+
+EXPORTS
+ DriverProc=DriverProc@20
+ widMessage=widMessage@20
+ wodMessage=wodMessage@20
+ midMessage=midMessage@20
+ modMessage=modMessage@20
+ mxdMessage=mxdMessage@20
+ auxMessage=auxMessage@20

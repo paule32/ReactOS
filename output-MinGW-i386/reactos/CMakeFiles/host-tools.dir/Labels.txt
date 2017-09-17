@@ -1,0 +1,13 @@
+# Target labels
+ host-tools
+# Source files and their labels
+/home/jens/winos/reactos/output-MinGW-i386/reactos/CMakeFiles/host-tools
+/home/jens/winos/reactos/output-MinGW-i386/reactos/CMakeFiles/host-tools.rule
+/home/jens/winos/reactos/output-MinGW-i386/reactos/CMakeFiles/host-tools-complete.rule
+/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-install.rule
+/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-mkdir.rule
+/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-download.rule
+/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-update.rule
+/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-patch.rule
+/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-configure.rule
+/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-build.rule

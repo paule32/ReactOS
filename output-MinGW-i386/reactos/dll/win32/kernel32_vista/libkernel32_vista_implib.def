@@ -1,0 +1,18 @@
+; File generated automatically, do not edit!
+
+NAME kernel32_vista.dll
+
+EXPORTS
+ InitOnceExecuteOnce@16
+ GetFileInformationByHandleEx@16
+ GetTickCount64@0
+ InitializeSRWLock@4
+ AcquireSRWLockExclusive@4
+ AcquireSRWLockShared@4
+ ReleaseSRWLockExclusive@4
+ ReleaseSRWLockShared@4
+ InitializeConditionVariable@4
+ SleepConditionVariableCS@12
+ SleepConditionVariableSRW@16
+ WakeAllConditionVariable@4
+ WakeConditionVariable@4

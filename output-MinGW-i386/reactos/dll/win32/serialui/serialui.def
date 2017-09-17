@@ -1,0 +1,11 @@
+; File generated automatically, do not edit!
+
+NAME serialui.dll
+
+EXPORTS
+ drvCommConfigDialogA=drvCommConfigDialogA@12
+ drvCommConfigDialogW=drvCommConfigDialogW@12
+ drvSetDefaultCommConfigA=drvSetDefaultCommConfigA@12
+ drvSetDefaultCommConfigW=drvSetDefaultCommConfigW@12
+ drvGetDefaultCommConfigA=drvGetDefaultCommConfigA@12
+ drvGetDefaultCommConfigW=drvGetDefaultCommConfigW@12

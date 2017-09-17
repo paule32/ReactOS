@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME aclayers.dll
+
+EXPORTS
+ GetHookAPIs=GetHookAPIs@12
+ NotifyShims=NotifyShims@8

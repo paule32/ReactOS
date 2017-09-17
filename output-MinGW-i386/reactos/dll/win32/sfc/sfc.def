@@ -1,0 +1,22 @@
+; File generated automatically, do not edit!
+
+NAME sfc.dll
+
+EXPORTS
+ sfc_1
+ sfc_2
+ sfc_3
+ sfc_4
+ sfc_5
+ sfc_6
+ sfc_7
+ sfc_8=sfc_8@0
+ sfc_9=sfc_9@0
+ SRSetRestorePoint=SRSetRestorePointA@8
+ SRSetRestorePointA=SRSetRestorePointA@8
+ SRSetRestorePointW=SRSetRestorePointW@8
+ SfcGetNextProtectedFile=sfc_os.SfcGetNextProtectedFile
+ SfcIsFileProtected=sfc_os.SfcIsFileProtected
+ SfcWLEventLogoff=sfc_os.SfcWLEventLogoff
+ SfcWLEventLogon=sfc_os.SfcWLEventLogon
+ SfpVerifyFile=SfpVerifyFile@12

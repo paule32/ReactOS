@@ -1,0 +1,14 @@
+; File generated automatically, do not edit!
+
+NAME mssip32.dll
+
+EXPORTS
+ CryptSIPGetInfo
+ CryptSIPGetRegWorkingFlags
+ CryptSIPCreateIndirectData
+ CryptSIPGetSignedDataMsg
+ CryptSIPPutSignedDataMsg
+ CryptSIPRemoveSignedDataMsg
+ CryptSIPVerifyIndirectData
+ DllRegisterServer=DllRegisterServer@0 PRIVATE
+ DllUnregisterServer=DllUnregisterServer@0 PRIVATE

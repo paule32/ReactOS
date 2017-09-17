@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME main.cpl
+
+EXPORTS
+ CPlApplet=CPlApplet@16

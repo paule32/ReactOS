@@ -1,0 +1,25 @@
+; File generated automatically, do not edit!
+
+NAME wmvcore.dll
+
+EXPORTS
+ WMCheckURLExtension
+ WMCheckURLScheme
+ WMCreateBackupRestorerPrivate
+ WMCreateSyncReaderPriv
+ WMIsAvailableOffline
+ WMValidateData
+ DllRegisterServer=DllRegisterServer@0 PRIVATE
+ WMCreateBackupRestorer
+ WMCreateEditor=WMCreateEditor@4
+ WMCreateIndexer
+ WMCreateProfileManager=WMCreateProfileManager@4
+ WMCreateReader=WMCreateReader@12
+ WMCreateReaderPriv=WMCreateReaderPriv@4
+ WMCreateSyncReader=WMCreateSyncReader@12
+ WMCreateWriter=WMCreateWriter@8
+ WMCreateWriterFileSink
+ WMCreateWriterNetworkSink
+ WMCreateWriterPriv
+ WMCreateWriterPushSink
+ WMIsContentProtected

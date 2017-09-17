@@ -1,0 +1,11 @@
+; File generated automatically, do not edit!
+
+NAME winprint.dll
+
+EXPORTS
+ ClosePrintProcessor=ClosePrintProcessor@4
+ ControlPrintProcessor=ControlPrintProcessor@8
+ EnumPrintProcessorDatatypesW=EnumPrintProcessorDatatypesW@28
+ GetPrintProcessorCapabilities=GetPrintProcessorCapabilities@20
+ OpenPrintProcessor=OpenPrintProcessor@8
+ PrintDocumentOnPrintProcessor=PrintDocumentOnPrintProcessor@8

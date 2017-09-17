@@ -1,0 +1,1 @@
+cmd='/home/jens/winos/rosbe/bin/cmake;-DNEW_STYLE_BUILD=1;-DARCH:STRING=i386;-GNinja;/home/jens/winos/reactos'

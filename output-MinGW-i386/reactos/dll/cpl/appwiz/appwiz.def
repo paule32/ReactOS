@@ -1,0 +1,10 @@
+; File generated automatically, do not edit!
+
+NAME appwiz.cpl
+
+EXPORTS
+ CPlApplet=CPlApplet@16
+ ConfigStartMenu=ConfigStartMenu@16
+ NewLinkHere=NewLinkHereA@16
+ NewLinkHereA=NewLinkHereA@16
+ NewLinkHereW=NewLinkHereW@16

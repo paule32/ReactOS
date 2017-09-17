@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME beepmidi.dll
+
+EXPORTS
+ DriverProc=DriverProc@20
+ modMessage=modMessage@20

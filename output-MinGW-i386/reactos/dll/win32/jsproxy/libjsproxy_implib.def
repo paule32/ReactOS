@@ -1,0 +1,10 @@
+; File generated automatically, do not edit!
+
+NAME jsproxy.dll
+
+EXPORTS
+ InternetInitializeAutoProxyDll@20=JSPROXY_InternetInitializeAutoProxyDll@20
+ InternetInitializeExAutoProxyDll
+ InternetDeInitializeAutoProxyDll@8
+ InternetDeInitializeExAutoProxyDll
+ InternetGetProxyInfo@24

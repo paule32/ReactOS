@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME wined3dcfg.cpl
+
+EXPORTS
+ CPlApplet=CPlApplet@16

@@ -1,0 +1,8 @@
+; File generated automatically, do not edit!
+
+NAME hdwwiz.cpl
+
+EXPORTS
+ AddHardwareWizard=AddHardwareWizard@8
+ CPlApplet=CPlApplet@16
+ InstallNewDevice=InstallNewDevice@12

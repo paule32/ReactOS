@@ -1,0 +1,19 @@
+; File generated automatically, do not edit!
+
+NAME faultrep.dll
+
+EXPORTS
+ AddERExcludedApplicationA=AddERExcludedApplicationA@4
+ AddERExcludedApplicationW=AddERExcludedApplicationW@4
+ CreateMinidumpA
+ CreateMinidumpW
+ ReportEREvent
+ ReportEREventDW
+ ReportFault=ReportFault@8
+ ReportFaultDWM
+ ReportFaultFromQueue
+ ReportFaultToQueue
+ ReportHang
+ ReportKernelFaultA
+ ReportKernelFaultDWW
+ ReportKernelFaultW

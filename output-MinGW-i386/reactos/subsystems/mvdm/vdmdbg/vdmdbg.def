@@ -1,0 +1,27 @@
+; File generated automatically, do not edit!
+
+NAME vdmdbg.dll
+
+EXPORTS
+ VDMBreakThread=VDMBreakThread@8
+ VDMDetectWOW=VDMDetectWOW@0
+ VDMEnumProcessWOW=VDMEnumProcessWOW@8
+ VDMEnumTaskWOW=VDMEnumTaskWOW@12
+ VDMEnumTaskWOWEx=VDMEnumTaskWOWEx@12
+ VDMGetContext=VDMGetContext@12
+ VDMGetDbgFlags=VDMGetDbgFlags@4
+ VDMGetModuleSelector=VDMGetModuleSelector@20
+ VDMGetPointer=VDMGetPointer@20
+ VDMGetSegmentInfo=VDMGetSegmentInfo@16
+ VDMGetSelectorModule=VDMGetSelectorModule@32
+ VDMGlobalFirst=VDMGlobalFirst@24
+ VDMGlobalNext=VDMGlobalNext@24
+ VDMIsModuleLoaded=VDMIsModuleLoaded@4
+ VDMKillWOW=VDMKillWOW@0
+ VDMModuleFirst=VDMModuleFirst@20
+ VDMModuleNext=VDMModuleNext@20
+ VDMProcessException=VDMProcessException@4
+ VDMSetContext=VDMSetContext@12
+ VDMSetDbgFlags=VDMSetDbgFlags@8
+ VDMStartTaskInWOW=VDMStartTaskInWOW@12
+ VDMTerminateTaskWOW=VDMTerminateTaskWOW@8

@@ -1,0 +1,16 @@
+; File generated automatically, do not edit!
+
+NAME wshirda.dll
+
+EXPORTS
+ WSHEnumProtocols=WSHEnumProtocols@16
+ WSHGetProviderGuid=WSHGetProviderGuid@8
+ WSHGetSockaddrType=WSHGetSockaddrType@12
+ WSHGetSocketInformation=WSHGetSocketInformation@32
+ WSHGetWSAProtocolInfo=WSHGetWSAProtocolInfo@12
+ WSHGetWildcardSockaddr=WSHGetWildcardSockaddr@12
+ WSHGetWinsockMapping=WSHGetWinsockMapping@8
+ WSHIoctl=WSHIoctl@52
+ WSHNotify=WSHNotify@20
+ WSHOpenSocket=WSHOpenSocket@24
+ WSHSetSocketInformation=WSHSetSocketInformation@32

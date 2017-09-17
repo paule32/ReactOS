@@ -1,0 +1,13 @@
+; File generated automatically, do not edit!
+
+NAME msisip.dll
+
+EXPORTS
+ MsiSIPIsMyTypeOfFile=MsiSIPIsMyTypeOfFile@8 @5
+ MsiSIPGetSignedDataMsg=MsiSIPGetSignedDataMsg@20 @6
+ MsiSIPPutSignedDataMsg @7
+ MsiSIPRemoveSignedDataMsg @8
+ MsiSIPCreateIndirectData @9
+ MsiSIPVerifyIndirectData @10
+ DllRegisterServer=DllRegisterServer@0 PRIVATE
+ DllUnregisterServer=DllUnregisterServer@0 PRIVATE

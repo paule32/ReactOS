@@ -1,0 +1,20 @@
+; File generated automatically, do not edit!
+
+NAME msdmo.dll
+
+EXPORTS
+ DMOEnum=DMOEnum@28
+ DMOGetName=DMOGetName@8
+ DMOGetTypes=DMOGetTypes@28
+ DMOGuidToStrA=DMOGuidToStrA@8
+ DMOGuidToStrW=DMOGuidToStrW@8
+ DMORegister=DMORegister@32
+ DMOStrToGuidA=DMOStrToGuidA@8
+ DMOStrToGuidW=DMOStrToGuidW@8
+ DMOUnregister=DMOUnregister@8
+ MoCopyMediaType=MoCopyMediaType@8
+ MoCreateMediaType=MoCreateMediaType@8
+ MoDeleteMediaType=MoDeleteMediaType@4
+ MoDuplicateMediaType=MoDuplicateMediaType@8
+ MoFreeMediaType=MoFreeMediaType@4
+ MoInitMediaType=MoInitMediaType@8

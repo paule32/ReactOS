@@ -1,0 +1,19 @@
+; File generated automatically, do not edit!
+
+NAME dsound.dll
+
+EXPORTS
+ DirectSoundCreate=DirectSoundCreate@12 @1
+ DirectSoundEnumerateA=DirectSoundEnumerateA@8 @2
+ DirectSoundEnumerateW=DirectSoundEnumerateW@8 @3
+ DirectSoundCaptureCreate=DirectSoundCaptureCreate@12 @6
+ DirectSoundCaptureEnumerateA=DirectSoundCaptureEnumerateA@8 @7
+ DirectSoundCaptureEnumerateW=DirectSoundCaptureEnumerateW@8 @8
+ GetDeviceID=GetDeviceID@8 @9
+ DirectSoundFullDuplexCreate=DirectSoundFullDuplexCreate@40 @10
+ DirectSoundCreate8=DirectSoundCreate8@12 @11
+ DirectSoundCaptureCreate8=DirectSoundCaptureCreate8@12 @12
+ DllCanUnloadNow=DllCanUnloadNow@0 PRIVATE
+ DllGetClassObject=DllGetClassObject@12 PRIVATE
+ DllRegisterServer=DllRegisterServer@0 PRIVATE
+ DllUnregisterServer=DllUnregisterServer@0 PRIVATE

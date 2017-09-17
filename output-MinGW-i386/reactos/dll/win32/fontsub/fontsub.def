@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME fontsub.dll
+
+EXPORTS
+ CreateFontPackage
+ MergeFontPackage

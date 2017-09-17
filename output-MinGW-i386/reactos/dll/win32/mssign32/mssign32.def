@@ -1,0 +1,35 @@
+; File generated automatically, do not edit!
+
+NAME mssign32.dll
+
+EXPORTS
+ DllRegisterServer PRIVATE
+ DllUnregisterServer PRIVATE
+ FreeCryptProvFromCert
+ GetCryptProvFromCert
+ PvkFreeCryptProv=PvkFreeCryptProv@16
+ PvkGetCryptProv=PvkGetCryptProv@36
+ PvkPrivateKeyAcquireContext
+ PvkPrivateKeyAcquireContextA
+ PvkPrivateKeyAcquireContextFromMemory=PvkPrivateKeyAcquireContextFromMemory@36
+ PvkPrivateKeyAcquireContextFromMemoryA
+ PvkPrivateKeyLoad
+ PvkPrivateKeyLoadA
+ PvkPrivateKeyLoadFromMemory
+ PvkPrivateKeyLoadFromMemoryA
+ PvkPrivateKeyReleaseContext
+ PvkPrivateKeyReleaseContextA
+ PvkPrivateKeySave
+ PvkPrivateKeySaveA
+ PvkPrivateKeySaveToMemory
+ PvkPrivateKeySaveToMemoryA
+ SignError
+ SignerAddTimeStampResponse
+ SignerAddTimeStampResponseEx
+ SignerCreateTimeStampRequest
+ SignerFreeSignerContext
+ SignerSign
+ SignerSignEx
+ SignerTimeStamp
+ SignerTimeStampEx
+ SpcGetCertFromKey

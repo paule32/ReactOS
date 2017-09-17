@@ -1,0 +1,8 @@
+; File generated automatically, do not edit!
+
+NAME aclui.dll
+
+EXPORTS
+ CreateSecurityPage=CreateSecurityPage@4 @1
+ EditSecurity=EditSecurity@8 @2
+ IID_ISecurityInformation @16 DATA

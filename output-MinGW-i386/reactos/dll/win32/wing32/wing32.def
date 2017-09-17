@@ -1,0 +1,15 @@
+; File generated automatically, do not edit!
+
+NAME wing32.dll
+
+EXPORTS
+ WinGBitBlt=WinGBitBlt@32
+ WinGCreateBitmap=WinGCreateBitmap@12
+ WinGCreateDC=WinGCreateDC@0
+ WinGCreateHalftoneBrush=WinGCreateHalftoneBrush@12
+ WinGCreateHalftonePalette=WinGCreateHalftonePalette@0
+ WinGGetDIBColorTable=WinGGetDIBColorTable@16
+ WinGGetDIBPointer=WinGGetDIBPointer@8
+ WinGRecommendDIBFormat=WinGRecommendDIBFormat@4
+ WinGSetDIBColorTable=WinGSetDIBColorTable@16
+ WinGStretchBlt=WinGStretchBlt@40

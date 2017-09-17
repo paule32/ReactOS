@@ -1,0 +1,44 @@
+; File generated automatically, do not edit!
+
+NAME dhcpcsvc.dll
+
+EXPORTS
+ DhcpAcquireParameters
+ DhcpAcquireParametersByBroadcast
+ DhcpCApiCleanup@0
+ DhcpCApiInitialize@4
+ DhcpDelPersistentRequestParams
+ DhcpDeRegisterOptions
+ DhcpDeRegisterParamChange
+ DhcpEnumClasses
+ DhcpFallbackRefreshParams
+ DhcpHandlePnPEvent
+ DhcpLeaseIpAddress@4
+ DhcpLeaseIpAddressEx
+ DhcpNotifyConfigChange@28
+ DhcpNotifyConfigChangeEx
+ DhcpNotifyMediaReconnected
+ DhcpOpenGlobalEvent
+ DhcpPersistentRequestParams
+ DhcpQueryHWInfo@16
+ DhcpRegisterOptions
+ DhcpRegisterParamChange
+ DhcpReleaseIpAddressLease@4
+ DhcpReleaseIpAddressLeaseEx
+ DhcpReleaseParameters
+ DhcpRemoveDNSRegistrations
+ DhcpRenewIpAddressLease@4
+ DhcpRenewIpAddressLeaseEx
+ DhcpRequestOptions
+ DhcpRequestParams
+ DhcpStaticRefreshParams@12
+ DhcpUndoRequestParams
+ McastApiCleanup
+ McastApiStartup
+ McastEnumerateScopes
+ McastGenUID
+ McastReleaseAddress
+ McastRenewAddress
+ McastRequestAddress
+ DhcpRosGetAdapterInfo@20
+ ServiceMain@8

@@ -1,0 +1,9 @@
+; File generated automatically, do not edit!
+
+NAME itircl.dll
+
+EXPORTS
+ DllCanUnloadNow=DllCanUnloadNow@0 PRIVATE
+ DllGetClassObject PRIVATE
+ DllRegisterServer=DllRegisterServer@0 PRIVATE
+ DllUnregisterServer=DllUnregisterServer@0 PRIVATE

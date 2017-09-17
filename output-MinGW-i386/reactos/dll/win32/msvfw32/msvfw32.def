@@ -1,0 +1,52 @@
+; File generated automatically, do not edit!
+
+NAME msvfw32.dll
+
+EXPORTS
+ VideoForWindowsVersion=VideoForWindowsVersion@0 @2
+ DrawDibBegin=DrawDibBegin@32
+ DrawDibChangePalette=DrawDibChangePalette@16
+ DrawDibClose=DrawDibClose@4
+ DrawDibDraw=DrawDibDraw@52
+ DrawDibEnd=DrawDibEnd@4
+ DrawDibGetBuffer=DrawDibGetBuffer@16
+ DrawDibGetPalette=DrawDibGetPalette@4
+ DrawDibOpen=DrawDibOpen@0
+ DrawDibProfileDisplay=DrawDibProfileDisplay@4
+ DrawDibRealize=DrawDibRealize@12
+ DrawDibSetPalette=DrawDibSetPalette@8
+ DrawDibStart=DrawDibStart@8
+ DrawDibStop=DrawDibStop@4
+ DrawDibTime=DrawDibTime@8
+ GetOpenFileNamePreview=GetOpenFileNamePreviewA@4
+ GetOpenFileNamePreviewA=GetOpenFileNamePreviewA@4
+ GetOpenFileNamePreviewW=GetOpenFileNamePreviewW@4
+ GetSaveFileNamePreviewA=GetSaveFileNamePreviewA@4
+ GetSaveFileNamePreviewW=GetSaveFileNamePreviewW@4
+ ICClose=ICClose@4
+ ICCompress
+ ICCompressorChoose=ICCompressorChoose@24
+ ICCompressorFree=ICCompressorFree@4
+ ICDecompress
+ ICDraw
+ ICDrawBegin
+ ICGetDisplayFormat=ICGetDisplayFormat@24
+ ICGetInfo=ICGetInfo@12
+ ICImageCompress=ICImageCompress@28
+ ICImageDecompress=ICImageDecompress@20
+ ICInfo=ICInfo@12
+ ICInstall=ICInstall@20
+ ICLocate=ICLocate@20
+ ICMThunk
+ ICOpen=ICOpen@12
+ ICOpenFunction=ICOpenFunction@16
+ ICRemove=ICRemove@12
+ ICSendMessage=ICSendMessage@16
+ ICSeqCompressFrame=ICSeqCompressFrame@20
+ ICSeqCompressFrameEnd=ICSeqCompressFrameEnd@4
+ ICSeqCompressFrameStart=ICSeqCompressFrameStart@8
+ MCIWndCreate=MCIWndCreateA
+ MCIWndCreateA
+ MCIWndCreateW
+ MCIWndRegisterClass
+ StretchDIB

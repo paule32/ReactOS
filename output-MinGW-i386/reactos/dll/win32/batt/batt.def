@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME batt.dll
+
+EXPORTS
+ BatteryClassCoInstaller=BatteryClassCoInstaller@16 @1
+ BatteryClassInstall=BatteryClassInstall@12 @2

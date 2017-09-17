@@ -1,0 +1,26 @@
+; File generated automatically, do not edit!
+
+NAME url.dll
+
+EXPORTS
+ AddMIMEFileTypesPS=AddMIMEFileTypesPS@8
+ AutodialHookCallback
+ DummyEntryPoint
+ DummyEntryPointA
+ FileProtocolHandler=FileProtocolHandlerA@16
+ FileProtocolHandlerA=FileProtocolHandlerA@16
+ InetIsOffline=InetIsOffline@4
+ MIMEAssociationDialogA
+ MIMEAssociationDialogW
+ MailToProtocolHandler
+ MailToProtocolHandlerA
+ NewsProtocolHandler
+ NewsProtocolHandlerA
+ OpenURL=OpenURLA@16
+ OpenURLA=OpenURLA@16
+ TelnetProtocolHandler=TelnetProtocolHandlerA@8
+ TelnetProtocolHandlerA=TelnetProtocolHandlerA@8
+ TranslateURLA
+ TranslateURLW
+ URLAssociationDialogA
+ URLAssociationDialogW

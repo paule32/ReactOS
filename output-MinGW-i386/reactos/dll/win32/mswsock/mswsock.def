@@ -1,0 +1,37 @@
+; File generated automatically, do not edit!
+
+NAME mswsock.dll
+
+EXPORTS
+ AcceptEx=AcceptEx@32
+ EnumProtocolsA=ws2_32.WSAEnumProtocolsA
+ EnumProtocolsW=ws2_32.WSAEnumProtocolsW
+ GetAcceptExSockaddrs=GetAcceptExSockaddrs@32
+ GetAddressByNameA=GetAddressByNameA@40
+ GetAddressByNameW=GetAddressByNameW@40
+ GetNameByTypeA=GetNameByTypeA@12
+ GetNameByTypeW=GetNameByTypeW@12
+ GetServiceA=GetServiceA@28
+ GetServiceW=GetServiceW@28
+ GetTypeByNameA=GetTypeByNameA@8
+ GetTypeByNameW=GetTypeByNameW@8
+ MigrateWinsockConfiguration=MigrateWinsockConfiguration@12
+ NPLoadNameSpaces=NPLoadNameSpaces@12
+ NSPStartup=NSPStartup@8
+ ServiceMain=ServiceMain@8
+ SetServiceA=SetServiceA@24
+ SetServiceW=SetServiceW@24
+ StartWsdpService=StartWsdpService@0
+ StopWsdpService=StopWsdpService@0
+ SvchostPushServiceGlobals=SvchostPushServiceGlobals@4
+ TransmitFile=TransmitFile@28
+ WSARecvEx=WSARecvEx@16
+ WSPStartup=WSPStartup@76
+ dn_expand=dn_expand@20
+ getnetbyname=getnetbyname@4
+ inet_network=inet_network@4
+ rcmd=rcmd@24
+ rexec=rexec@24
+ rresvport=rresvport@4
+ s_perror=s_perror@4
+ sethostname=sethostname@8

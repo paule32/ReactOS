@@ -1,0 +1,21 @@
+; File generated automatically, do not edit!
+
+NAME fmifs.dll
+
+EXPORTS
+ Chkdsk@36
+ ChkdskEx
+ ComputeFmMediaType
+ DiskCopy@0
+ EnableVolumeCompression@8
+ Extend@0
+ Format@24
+ FormatEx@28
+ FormatEx2
+ QueryAvailableFileSystemFormat@20
+ QueryDeviceInformation
+ QueryDeviceInformationByHandle
+ QueryFileSystemName
+ QueryLatestFileSystemVersion
+ QuerySupportedMedia@16
+ SetLabel@8=kernel32.SetVolumeLabelW

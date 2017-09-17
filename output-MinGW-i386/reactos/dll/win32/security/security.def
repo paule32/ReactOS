@@ -1,0 +1,41 @@
+; File generated automatically, do not edit!
+
+NAME security.dll
+
+EXPORTS
+ AcceptSecurityContext=SECUR32.AcceptSecurityContext
+ AcquireCredentialsHandleA=SECUR32.AcquireCredentialsHandleA
+ AcquireCredentialsHandleW=SECUR32.AcquireCredentialsHandleW
+ AddSecurityPackageA=SECUR32.AddSecurityPackageA
+ AddSecurityPackageW=SECUR32.AddSecurityPackageW
+ ApplyControlToken=SECUR32.ApplyControlToken
+ CompleteAuthToken=SECUR32.CompleteAuthToken
+ DecryptMessage=SECUR32.DecryptMessage
+ DeleteSecurityContext=SECUR32.DeleteSecurityContext
+ DeleteSecurityPackageA=SECUR32.DeleteSecurityPackageA
+ DeleteSecurityPackageW=SECUR32.DeleteSecurityPackageW
+ EncryptMessage=SECUR32.EncryptMessage
+ EnumerateSecurityPackagesA=SECUR32.EnumerateSecurityPackagesA
+ EnumerateSecurityPackagesW=SECUR32.EnumerateSecurityPackagesW
+ ExportSecurityContext=SECUR32.ExportSecurityContext
+ FreeContextBuffer=SECUR32.FreeContextBuffer
+ FreeCredentialsHandle=SECUR32.FreeCredentialsHandle
+ ImpersonateSecurityContext=SECUR32.ImpersonateSecurityContext
+ ImportSecurityContextA=SECUR32.ImportSecurityContextA
+ ImportSecurityContextW=SECUR32.ImportSecurityContextW
+ InitializeSecurityContextA=SECUR32.InitializeSecurityContextA
+ InitializeSecurityContextW=SECUR32.InitializeSecurityContextW
+ InitSecurityInterfaceA=SECUR32.InitSecurityInterfaceA
+ InitSecurityInterfaceW=SECUR32.InitSecurityInterfaceW
+ MakeSignature=SECUR32.MakeSignature
+ QueryContextAttributesA=SECUR32.QueryContextAttributesA
+ QueryContextAttributesW=SECUR32.QueryContextAttributesW
+ QueryCredentialsAttributesA=SECUR32.QueryCredentialsAttributesA
+ QueryCredentialsAttributesW=SECUR32.QueryCredentialsAttributesW
+ QuerySecurityContextToken=SECUR32.QuerySecurityContextToken
+ QuerySecurityPackageInfoA=SECUR32.QuerySecurityPackageInfoA
+ QuerySecurityPackageInfoW=SECUR32.QuerySecurityPackageInfoW
+ RevertSecurityContext=SECUR32.RevertSecurityContext
+ SealMessage=SECUR32.EncryptMessage
+ UnsealMessage=SECUR32.DecryptMessage
+ VerifySignature=SECUR32.VerifySignature

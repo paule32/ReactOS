@@ -1,0 +1,35 @@
+; File generated automatically, do not edit!
+
+NAME hidparse.sys
+
+EXPORTS
+ HidP_FreeCollectionDescription=HidP_FreeCollectionDescription@4
+ HidP_GetButtonCaps=HidP_GetButtonCaps@16
+ HidP_GetCaps=HidP_GetCaps@8
+ HidP_GetCollectionDescription=HidP_GetCollectionDescription@16
+ HidP_GetData=HidP_GetData@24
+ HidP_GetExtendedAttributes=HidP_GetExtendedAttributes@20
+ HidP_GetLinkCollectionNodes=HidP_GetLinkCollectionNodes@12
+ HidP_GetScaledUsageValue=HidP_GetScaledUsageValue@32
+ HidP_GetSpecificButtonCaps=HidP_GetSpecificButtonCaps@28
+ HidP_GetSpecificValueCaps=HidP_GetSpecificValueCaps@28
+ HidP_GetUsageValue=HidP_GetUsageValue@32
+ HidP_GetUsageValueArray=HidP_GetUsageValueArray@36
+ HidP_GetUsages=HidP_GetUsages@32
+ HidP_GetUsagesEx=HidP_GetUsagesEx@28
+ HidP_GetValueCaps=HidP_GetValueCaps@16
+ HidP_InitializeReportForID=HidP_InitializeReportForID@20
+ HidP_MaxDataListLength=HidP_MaxDataListLength@8
+ HidP_MaxUsageListLength=HidP_MaxUsageListLength@12
+ HidP_SetData=HidP_SetData@24
+ HidP_SetScaledUsageValue=HidP_SetScaledUsageValue@32
+ HidP_SetUsageValue=HidP_SetUsageValue@32
+ HidP_SetUsageValueArray=HidP_SetUsageValueArray@36
+ HidP_SetUsages=HidP_SetUsages@32
+ HidP_SysPowerCaps=HidP_SysPowerCaps@8
+ HidP_SysPowerEvent=HidP_SysPowerEvent@16
+ HidP_TranslateUsageAndPagesToI8042ScanCodes=HidP_TranslateUsageAndPagesToI8042ScanCodes@24
+ HidP_TranslateUsagesToI8042ScanCodes=HidP_TranslateUsagesToI8042ScanCodes@24
+ HidP_UnsetUsages=HidP_UnsetUsages@32
+ HidP_UsageAndPageListDifference=HidP_UsageAndPageListDifference@20
+ HidP_UsageListDifference=HidP_UsageListDifference@20

@@ -1,0 +1,8 @@
+; File generated automatically, do not edit!
+
+NAME windowscodecsext.dll
+
+EXPORTS
+ DllGetClassObject=DllGetClassObject@12 PRIVATE
+ IWICColorTransform_Initialize_Proxy=IWICColorTransform_Initialize_Proxy_W@20
+ WICCreateColorTransform_Proxy=WICCreateColorTransform_Proxy@4

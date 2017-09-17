@@ -1,0 +1,17 @@
+; File generated automatically, do not edit!
+
+NAME newdev.dll
+
+EXPORTS
+ ClientSideInstallW@16
+ DevInstallW@16
+ InstallDevInst@16
+ InstallDevInstEx
+ InstallNewDevice@12
+ InstallSelectedDevice
+ InstallSelectedDriverW@20
+ InstallWindowsUpdateDriver
+ RollbackDriver
+ UpdateDriverForPlugAndPlayDevicesA@20
+ UpdateDriverForPlugAndPlayDevicesW@20
+ DiShowUpdateDevice@20

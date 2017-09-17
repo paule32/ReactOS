@@ -1,0 +1,8 @@
+; File generated automatically, do not edit!
+
+NAME msacm32.drv
+
+EXPORTS
+ DriverProc=WAVEMAP_DriverProc@20 PRIVATE
+ widMessage=WAVEMAP_widMessage@20 PRIVATE
+ wodMessage=WAVEMAP_wodMessage@20 PRIVATE

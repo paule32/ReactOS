@@ -1,0 +1,24 @@
+; File generated automatically, do not edit!
+
+NAME dxgthk.sys
+
+EXPORTS
+ EngAcquireSemaphore@4=win32k.EngAcquireSemaphore
+ EngAllocMem@12=win32k.EngAllocMem
+ EngAllocUserMem@8=win32k.EngAllocUserMem
+ EngCopyBits@24=win32k.EngCopyBits
+ EngCreateBitmap@20=win32k.EngCreateBitmap
+ EngCreatePalette@24=win32k.EngCreatePalette
+ EngCreateSemaphore@0=win32k.EngCreateSemaphore
+ EngDeletePalette@4=win32k.EngDeletePalette
+ EngDeleteSemaphore@4=win32k.EngDeleteSemaphore
+ EngDeleteSurface@4=win32k.EngDeleteSurface
+ EngFindImageProcAddress@8=win32k.EngFindImageProcAddress
+ EngFreeMem@4=win32k.EngFreeMem
+ EngFreeUserMem@4=win32k.EngFreeUserMem
+ EngLoadImage@4=win32k.EngLoadImage
+ EngLockSurface@4=win32k.EngLockSurface
+ EngReleaseSemaphore@4=win32k.EngReleaseSemaphore
+ EngSetLastError@4=win32k.EngSetLastError
+ EngUnloadImage@4=win32k.EngUnloadImage
+ EngUnlockSurface@4=win32k.EngUnlockSurface

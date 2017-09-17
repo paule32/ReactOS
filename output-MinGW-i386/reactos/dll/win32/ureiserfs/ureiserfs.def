@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME ureiserfs.dll
+
+EXPORTS
+ ChkdskEx=ReiserfsChkdsk@24
+ FormatEx=ReiserfsFormat@24

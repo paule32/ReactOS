@@ -1,0 +1,16 @@
+; File generated automatically, do not edit!
+
+NAME bootvid.dll
+
+EXPORTS
+ VidBitBlt=VidBitBlt@12
+ VidBufferToScreenBlt=VidBufferToScreenBlt@24
+ VidCleanUp=VidCleanUp@0
+ VidDisplayString=VidDisplayString@4
+ VidDisplayStringXY=VidDisplayStringXY@16
+ VidInitialize=VidInitialize@4
+ VidResetDisplay=VidResetDisplay@4
+ VidScreenToBufferBlt=VidScreenToBufferBlt@24
+ VidSetScrollRegion=VidSetScrollRegion@16
+ VidSetTextColor=VidSetTextColor@4
+ VidSolidColorFill=VidSolidColorFill@20

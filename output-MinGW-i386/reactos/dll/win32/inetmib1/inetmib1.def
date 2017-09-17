@@ -1,0 +1,9 @@
+; File generated automatically, do not edit!
+
+NAME inetmib1.dll
+
+EXPORTS
+ SnmpExtensionInit=SnmpExtensionInit@12
+ SnmpExtensionInitEx
+ SnmpExtensionQuery=SnmpExtensionQuery@16
+ SnmpExtensionTrap

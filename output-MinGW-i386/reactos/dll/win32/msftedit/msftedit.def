@@ -1,0 +1,19 @@
+; File generated automatically, do not edit!
+
+NAME msftedit.dll
+
+EXPORTS
+ IID_IRichEditOle @2 DATA
+ IID_IRichEditOleCallback @3 DATA
+ CreateTextServices=riched20.CreateTextServices @4
+ IID_ITextServices=riched20.IID_ITextServices @5 DATA
+ IID_ITextHost=riched20.IID_ITextHost @6 DATA
+ IID_ITextHost2=riched20.IID_ITextHost2 @7 DATA
+ REExtendedRegisterClass=riched20.REExtendedRegisterClass @8
+ RichEdit10ANSIWndProc=riched20.RichEdit10ANSIWndProc @9
+ RichEditANSIWndProc=riched20.RichEditANSIWndProc @10
+ SetCustomTextOutHandlerEx @11
+ DllGetVersion=DllGetVersion@4 @12 PRIVATE
+ RichEditWndProc @13
+ RichListBoxWndProc @14
+ RichComboBoxWndProc @15

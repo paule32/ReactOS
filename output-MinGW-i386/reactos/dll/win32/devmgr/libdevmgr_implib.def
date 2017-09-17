@@ -1,0 +1,29 @@
+; File generated automatically, do not edit!
+
+NAME devmgr.dll
+
+EXPORTS
+ DeviceProperties_RunDLLA@16
+ DeviceProperties_RunDLLW@16
+ DevicePropertiesA@16
+ DevicePropertiesW@16
+ DeviceManager_ExecuteA@16
+ DeviceManager_ExecuteW@16
+ DeviceProblemTextA@20
+ DeviceProblemTextW@20
+ DeviceProblemWizardA@12
+ DeviceProblemWizardW@12
+ DeviceManagerPrintA@20
+ DeviceManagerPrintW@20
+ DeviceAdvancedPropertiesA@12
+ DeviceAdvancedPropertiesW@12
+ DeviceCreateHardwarePage@8
+ DeviceCreateHardwarePageEx@16
+ DevicePropertiesExA@20
+ DevicePropertiesExW@20
+ DeviceProblenWizard_RunDLLA@16=DeviceProblemWizard_RunDLLA@16
+ DeviceProblenWizard_RunDLLW@16=DeviceProblemWizard_RunDLLW@16
+ DllCanUnloadNow@0 PRIVATE
+ DllGetClassObject@12 PRIVATE
+ DllRegisterServer@0 PRIVATE
+ DllUnregisterServer@0 PRIVATE

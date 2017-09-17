@@ -1,0 +1,9 @@
+; File generated automatically, do not edit!
+
+NAME ksuser.dll
+
+EXPORTS
+ KsCreateAllocator=KsCreateAllocator@12
+ KsCreateClock=KsCreateClock@12
+ KsCreatePin=KsCreatePin@16
+ KsCreateTopologyNode=KsCreateTopologyNode@16

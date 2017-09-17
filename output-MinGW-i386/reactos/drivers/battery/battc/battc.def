@@ -1,0 +1,11 @@
+; File generated automatically, do not edit!
+
+NAME battc.sys
+
+EXPORTS
+ BatteryClassInitializeDevice=BatteryClassInitializeDevice@8
+ BatteryClassIoctl=BatteryClassIoctl@8
+ BatteryClassQueryWmiDataBlock=BatteryClassQueryWmiDataBlock@28
+ BatteryClassStatusNotify=BatteryClassStatusNotify@4
+ BatteryClassSystemControl=BatteryClassSystemControl@20
+ BatteryClassUnload=BatteryClassUnload@4

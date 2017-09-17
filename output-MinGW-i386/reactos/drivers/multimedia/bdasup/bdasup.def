@@ -1,0 +1,31 @@
+; File generated automatically, do not edit!
+
+NAME bdasup.sys
+
+EXPORTS
+ DllInitialize=DllInitialize@4
+ BdaCheckChanges=BdaCheckChanges@4
+ BdaCommitChanges=BdaCommitChanges@4
+ BdaCreateFilterFactory=BdaCreateFilterFactory@12
+ BdaCreateFilterFactoryEx=BdaCreateFilterFactoryEx@16
+ BdaCreatePin=BdaCreatePin@12
+ BdaCreateTopology=BdaCreateTopology@12
+ BdaDeletePin=BdaDeletePin@8
+ BdaFilterFactoryUpdateCacheData=BdaFilterFactoryUpdateCacheData@8
+ BdaGetChangeState=BdaGetChangeState@8
+ BdaInitFilter=BdaInitFilter@8
+ BdaMethodCreatePin=BdaMethodCreatePin@12
+ BdaMethodCreateTopology=BdaMethodCreateTopology@12
+ BdaMethodDeletePin=BdaMethodDeletePin@12
+ BdaPropertyGetControllingPinId=BdaPropertyGetControllingPinId@12
+ BdaPropertyGetPinControl=BdaPropertyGetPinControl@12
+ BdaPropertyNodeDescriptors=BdaPropertyNodeDescriptors@12
+ BdaPropertyNodeEvents=BdaPropertyNodeEvents@12
+ BdaPropertyNodeMethods=BdaPropertyNodeMethods@12
+ BdaPropertyNodeProperties=BdaPropertyNodeProperties@12
+ BdaPropertyNodeTypes=BdaPropertyNodeTypes@12
+ BdaPropertyPinTypes=BdaPropertyPinTypes@12
+ BdaPropertyTemplateConnections=BdaPropertyTemplateConnections@12
+ BdaStartChanges=BdaStartChanges@4
+ BdaUninitFilter=BdaUninitFilter@4
+ BdaValidateNodeProperty=BdaValidateNodeProperty@8

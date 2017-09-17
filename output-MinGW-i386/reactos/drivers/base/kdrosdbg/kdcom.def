@@ -1,0 +1,13 @@
+; File generated automatically, do not edit!
+
+NAME kdcom.dll
+
+EXPORTS
+ KdD0Transition=KdD0Transition@0
+ KdD3Transition=KdD3Transition@0
+ KdDebuggerInitialize0=KdDebuggerInitialize0@4
+ KdDebuggerInitialize1=KdDebuggerInitialize1@4
+ KdReceivePacket=KdReceivePacket@20
+ KdRestore=KdRestore@4
+ KdSave=KdSave@4
+ KdSendPacket=KdSendPacket@16

@@ -1,0 +1,8 @@
+; File generated automatically, do not edit!
+
+NAME wmilib.sys
+
+EXPORTS
+ WmiCompleteRequest@20
+ WmiFireEvent@20
+ WmiSystemControl@16

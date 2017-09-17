@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME ubtrfs.dll
+
+EXPORTS
+ ChkdskEx=BtrfsChkdskEx@24
+ FormatEx=BtrfsFormatEx@24

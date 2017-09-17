@@ -1,0 +1,15 @@
+; File generated automatically, do not edit!
+
+NAME srclient.dll
+
+EXPORTS
+ DisableSR
+ DisableSRInternal
+ EnableSR
+ EnableSREx
+ EnableSRInternal
+ SRRemoveRestorePoint=SRRemoveRestorePoint@4
+ SRSetRestorePointA=SRSetRestorePointA@8
+ SRSetRestorePointInternal
+ SRSetRestorePointW=SRSetRestorePointW@8
+ SetSRStateAfterSetup

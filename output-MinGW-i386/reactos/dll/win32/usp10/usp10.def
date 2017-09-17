@@ -1,0 +1,49 @@
+; File generated automatically, do not edit!
+
+NAME usp10.dll
+
+EXPORTS
+ LpkPresent=LpkPresent@0
+ ScriptApplyDigitSubstitution=ScriptApplyDigitSubstitution@12
+ ScriptApplyLogicalWidth=ScriptApplyLogicalWidth@36
+ ScriptBreak=ScriptBreak@16
+ ScriptCPtoX=ScriptCPtoX@36
+ ScriptCacheGetHeight=ScriptCacheGetHeight@12
+ ScriptFreeCache=ScriptFreeCache@4
+ ScriptGetCMap=ScriptGetCMap@24
+ ScriptGetFontAlternateGlyphs
+ ScriptGetFontFeatureTags=ScriptGetFontFeatureTags@32
+ ScriptGetFontLanguageTags=ScriptGetFontLanguageTags@28
+ ScriptGetFontProperties=ScriptGetFontProperties@12
+ ScriptGetFontScriptTags=ScriptGetFontScriptTags@24
+ ScriptGetGlyphABCWidth=ScriptGetGlyphABCWidth@16
+ ScriptGetLogicalWidths=ScriptGetLogicalWidths@28
+ ScriptGetProperties=ScriptGetProperties@8
+ ScriptIsComplex=ScriptIsComplex@12
+ ScriptItemize=ScriptItemize@28
+ ScriptItemizeOpenType=ScriptItemizeOpenType@32
+ ScriptJustify=ScriptJustify@24
+ ScriptLayout=ScriptLayout@16
+ ScriptPlace=ScriptPlace@36
+ ScriptPlaceOpenType=ScriptPlaceOpenType@72
+ ScriptPositionSingleGlyph
+ ScriptRecordDigitSubstitution=ScriptRecordDigitSubstitution@8
+ ScriptShape=ScriptShape@40
+ ScriptShapeOpenType=ScriptShapeOpenType@64
+ ScriptStringAnalyse=ScriptStringAnalyse@52
+ ScriptStringCPtoX=ScriptStringCPtoX@16
+ ScriptStringFree=ScriptStringFree@4
+ ScriptStringGetLogicalWidths=ScriptStringGetLogicalWidths@8
+ ScriptStringGetOrder=ScriptStringGetOrder@8
+ ScriptStringOut=ScriptStringOut@32
+ ScriptStringValidate=ScriptStringValidate@4
+ ScriptStringXtoCP=ScriptStringXtoCP@16
+ ScriptString_pLogAttr=ScriptString_pLogAttr@4
+ ScriptString_pSize=ScriptString_pSize@4
+ ScriptString_pcOutChars=ScriptString_pcOutChars@4
+ ScriptSubstituteSingleGlyph
+ ScriptTextOut=ScriptTextOut@56
+ ScriptXtoCP=ScriptXtoCP@36
+ UspAllocCache
+ UspAllocTemp
+ UspFreeMem

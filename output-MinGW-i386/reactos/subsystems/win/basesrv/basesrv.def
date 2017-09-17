@@ -1,0 +1,9 @@
+; File generated automatically, do not edit!
+
+NAME basesrv.dll
+
+EXPORTS
+ BaseSetProcessCreateNotify=BaseSetProcessCreateNotify@4
+ BaseSrvNlsLogon=BaseSrvNlsLogon@4
+ BaseSrvNlsUpdateRegistryCache=BaseSrvNlsUpdateRegistryCache@8
+ ServerDllInitialization=ServerDllInitialization@4

@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME usrmgr.cpl
+
+EXPORTS
+ CPlApplet=CPlApplet@16

@@ -1,0 +1,17 @@
+; File generated automatically, do not edit!
+
+NAME olesvr32.dll
+
+EXPORTS
+ WEP @1
+ OleRegisterServer=OleRegisterServer@20 @2
+ OleRevokeServer=OleRevokeServer@4 @3
+ OleBlockServer=OleBlockServer@4 @4
+ OleUnblockServer=OleUnblockServer@8 @5
+ OleRegisterServerDoc=OleRegisterServerDoc@16 @6
+ OleRevokeServerDoc=OleRevokeServerDoc@4 @7
+ OleRenameServerDoc=OleRenameServerDoc@8 @8
+ OleRevertServerDoc=OleRevertServerDoc@4 @9
+ OleSavedServerDoc=OleSavedServerDoc@4 @10
+ OleRevokeObject @11
+ OleQueryServerVersion @12

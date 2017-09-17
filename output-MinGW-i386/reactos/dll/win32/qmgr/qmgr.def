@@ -1,0 +1,8 @@
+; File generated automatically, do not edit!
+
+NAME qmgr.dll
+
+EXPORTS
+ DllRegisterServer=DllRegisterServer@0 PRIVATE
+ DllUnregisterServer=DllUnregisterServer@0 PRIVATE
+ ServiceMain=ServiceMain@8 PRIVATE

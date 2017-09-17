@@ -1,0 +1,39 @@
+; File generated automatically, do not edit!
+
+NAME mscat32.dll
+
+EXPORTS
+ CryptCATVerifyMember
+ CryptCATAdminAcquireContext=wintrust.CryptCATAdminAcquireContext
+ CryptCATAdminAddCatalog=wintrust.CryptCATAdminAddCatalog
+ CryptCATAdminCalcHashFromFileHandle=wintrust.CryptCATAdminCalcHashFromFileHandle
+ CryptCATAdminEnumCatalogFromHash=wintrust.CryptCATAdminEnumCatalogFromHash
+ CryptCATAdminReleaseCatalogContext=wintrust.CryptCATAdminReleaseCatalogContext
+ CryptCATAdminReleaseContext=wintrust.CryptCATAdminReleaseContext
+ CryptCATCDFClose=wintrust.CryptCATCDFClose
+ CryptCATCDFEnumAttributes
+ CryptCATCDFEnumAttributesWithCDFTag=wintrust.CryptCATCDFEnumAttributesWithCDFTag
+ CryptCATCDFEnumCatAttributes=wintrust.CryptCATCDFEnumCatAttributes
+ CryptCATCDFEnumMembers
+ CryptCATCDFEnumMembersByCDFTag=wintrust.CryptCATCDFEnumMembersByCDFTag
+ CryptCATCDFOpen=wintrust.CryptCATCDFOpen
+ CryptCATCatalogInfoFromContext=wintrust.CryptCATCatalogInfoFromContext
+ CryptCATClose=wintrust.CryptCATClose
+ CryptCATEnumerateAttr=wintrust.CryptCATEnumerateAttr
+ CryptCATEnumerateCatAttr=wintrust.CryptCATEnumerateCatAttr
+ CryptCATEnumerateMember=wintrust.CryptCATEnumerateMember
+ CryptCATGetAttrInfo=wintrust.CryptCATGetAttrInfo
+ CryptCATGetCatAttrInfo=wintrust.CryptCATGetCatAttrInfo
+ CryptCATGetMemberInfo=wintrust.CryptCATGetMemberInfo
+ CryptCATHandleFromStore=wintrust.CryptCATHandleFromStore
+ CryptCATOpen=wintrust.CryptCATOpen
+ CryptCATPersistStore=wintrust.CryptCATPersistStore
+ CryptCATPutAttrInfo=wintrust.CryptCATPutAttrInfo
+ CryptCATPutCatAttrInfo=wintrust.CryptCATPutCatAttrInfo
+ CryptCATPutMemberInfo=wintrust.CryptCATPutMemberInfo
+ CryptCATStoreFromHandle=wintrust.CryptCATStoreFromHandle
+ DllRegisterServer=wintrust.mscat32DllRegisterServer PRIVATE
+ DllUnregisterServer=wintrust.mscat32DllUnregisterServer PRIVATE
+ IsCatalogFile=wintrust.IsCatalogFile
+ MsCatConstructHashTag
+ MsCatFreeHashTag

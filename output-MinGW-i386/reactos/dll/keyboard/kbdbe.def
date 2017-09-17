@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME kbdbe.dll
+
+EXPORTS
+ KbdLayerDescriptor=KbdLayerDescriptor@0

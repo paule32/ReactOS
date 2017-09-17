@@ -1,0 +1,18 @@
+; File generated automatically, do not edit!
+
+NAME nfs41_np.dll
+
+EXPORTS
+ NPGetCaps=NPGetCaps@4
+ NPLogonNotify=NPLogonNotify@32
+ NPPasswordChangeNotify=NPPasswordChangeNotify@28
+ NPAddConnection=NPAddConnection@12
+ NPAddConnection3=NPAddConnection3@20
+ NPCancelConnection=NPCancelConnection@8
+ NPGetConnection=NPGetConnection@12
+ NPOpenEnum=NPOpenEnum@20
+ NPEnumResource=NPEnumResource@16
+ NPCloseEnum=NPCloseEnum@4
+ NPGetResourceParent=NPGetResourceParent@12
+ NPGetResourceInformation=NPGetResourceInformation@16
+ NPGetUniversalName=NPGetUniversalName@16

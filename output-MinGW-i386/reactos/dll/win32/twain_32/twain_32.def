@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME twain_32.dll
+
+EXPORTS
+ DSM_Entry=DSM_Entry@24

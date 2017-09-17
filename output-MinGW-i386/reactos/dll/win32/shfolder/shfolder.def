@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME shfolder.dll
+
+EXPORTS
+ SHGetFolderPathA=shell32.SHGetFolderPathA
+ SHGetFolderPathW=shell32.SHGetFolderPathW

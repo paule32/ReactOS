@@ -1,0 +1,19 @@
+; File generated automatically, do not edit!
+
+NAME modemui.dll
+
+EXPORTS
+ QueryModemForCountrySettings
+ drvCommConfigDialogW
+ drvCommConfigDialogA
+ drvSetDefaultCommConfigW
+ drvSetDefaultCommConfigA
+ drvGetDefaultCommConfigW
+ drvGetDefaultCommConfigA
+ UnimodemDevConfigDialog
+ CountryRunOnce
+ UnimodemGetDefaultCommConfig
+ UnimodemGetExtendedCaps
+ InvokeControlPanel
+ ModemCplDlgProc=ModemCplDlgProc@16
+ ModemPropPagesProvider=ModemPropPagesProvider@16

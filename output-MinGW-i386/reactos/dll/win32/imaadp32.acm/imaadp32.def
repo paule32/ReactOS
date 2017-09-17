@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME imaadp32.acm
+
+EXPORTS
+ DriverProc=ADPCM_DriverProc@20 PRIVATE

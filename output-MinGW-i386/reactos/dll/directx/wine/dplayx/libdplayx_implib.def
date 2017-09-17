@@ -1,0 +1,16 @@
+; File generated automatically, do not edit!
+
+NAME dplayx.dll
+
+EXPORTS
+ DirectPlayCreate@12
+ DirectPlayEnumerateA@8
+ DirectPlayEnumerateW@8
+ DirectPlayLobbyCreateA@20
+ DirectPlayLobbyCreateW@20
+ gdwDPlaySPRefCount DATA
+ DirectPlayEnumerate@8=DirectPlayEnumerateA@8
+ DllCanUnloadNow@0 PRIVATE
+ DllGetClassObject@12 PRIVATE
+ DllRegisterServer@0 PRIVATE
+ DllUnregisterServer@0 PRIVATE

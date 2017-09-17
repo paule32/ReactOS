@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/jens/winos/reactos/output-MinGW-i386/reactos/CMakeFiles/host-tools"
+		},
+		
+		{
+			"file" : "/home/jens/winos/reactos/output-MinGW-i386/reactos/CMakeFiles/host-tools.rule"
+		},
+		
+		{
+			"file" : "/home/jens/winos/reactos/output-MinGW-i386/reactos/CMakeFiles/host-tools-complete.rule"
+		},
+		
+		{
+			"file" : "/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-install.rule"
+		},
+		
+		{
+			"file" : "/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-mkdir.rule"
+		},
+		
+		{
+			"file" : "/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-download.rule"
+		},
+		
+		{
+			"file" : "/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-update.rule"
+		},
+		
+		{
+			"file" : "/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-patch.rule"
+		},
+		
+		{
+			"file" : "/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-configure.rule"
+		},
+		
+		{
+			"file" : "/home/jens/winos/reactos/output-MinGW-i386/reactos/host-tools/stamps/host-tools-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "host-tools" ],
+		"name" : "host-tools"
+	}
+}

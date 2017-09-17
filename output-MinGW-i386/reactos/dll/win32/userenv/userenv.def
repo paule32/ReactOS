@@ -1,0 +1,127 @@
+; File generated automatically, do not edit!
+
+NAME userenv.dll
+
+EXPORTS
+ CreateEnvironmentBlock=CreateEnvironmentBlock@12 @132
+ DeleteProfileA=DeleteProfileA@12 @133
+ DeleteProfileW=DeleteProfileW@12 @134
+ DestroyEnvironmentBlock=DestroyEnvironmentBlock@4 @176
+ DllCanUnloadNow PRIVATE
+ DllGetClassObject PRIVATE
+ DllInstall PRIVATE
+ DllRegisterServer PRIVATE
+ DllUnregisterServer PRIVATE
+ EnterCriticalPolicySection=EnterCriticalPolicySection@4 @182
+ ExpandEnvironmentStringsForUserA=ExpandEnvironmentStringsForUserA@16 @183
+ ExpandEnvironmentStringsForUserW=ExpandEnvironmentStringsForUserW@16 @184
+ ForceSyncFgPolicy @185
+ FreeGPOListA @186
+ FreeGPOListW @187
+ GenerateRsopPolicy @188
+ GetAllUsersProfileDirectoryA=GetAllUsersProfileDirectoryA@8 @189
+ GetAllUsersProfileDirectoryW=GetAllUsersProfileDirectoryW@8 @190
+ GetAppliedGPOListA=GetAppliedGPOListA@20 @191
+ GetAppliedGPOListW=GetAppliedGPOListW@20 @192
+ GetDefaultUserProfileDirectoryA=GetDefaultUserProfileDirectoryA@8 @193
+ GetDefaultUserProfileDirectoryW=GetDefaultUserProfileDirectoryW@8 @194
+ GetGPOListA @195
+ GetGPOListW @196
+ GetNextFgPolicyRefreshInfo @197
+ GetPreviousFgPolicyRefreshInfo @198
+ GetProfileType=GetProfileType@4 @199
+ GetProfilesDirectoryA=GetProfilesDirectoryA@8 @202
+ GetProfilesDirectoryW=GetProfilesDirectoryW@8 @203
+ GetUserProfileDirectoryA=GetUserProfileDirectoryA@12 @204
+ GetUserProfileDirectoryW=GetUserProfileDirectoryW@12 @205
+ LeaveCriticalPolicySection=LeaveCriticalPolicySection@4 @206
+ LoadUserProfileA=LoadUserProfileA@8 @207
+ LoadUserProfileW=LoadUserProfileW@8 @208
+ ProcessGroupPolicyCompleted @209
+ ProcessGroupPolicyCompletedEx @210
+ RefreshPolicy=RefreshPolicy@4 @211
+ RefreshPolicyEx=RefreshPolicyEx@8 @212
+ RegisterGPNotification=RegisterGPNotification@8 @213
+ RsopAccessCheckByType @214
+ RsopFileAccessCheck @215
+ RsopLoggingEnabled @216
+ RsopResetPolicySettingStatus @217
+ RsopSetPolicySettingStatus @218
+ UnloadUserProfile=UnloadUserProfile@8 @219
+ UnregisterGPNotification=UnregisterGPNotification@4 @220
+ WaitForMachinePolicyForegroundProcessing=WaitForMachinePolicyForegroundProcessing@0 @221
+ WaitForUserPolicyForegroundProcessing=WaitForUserPolicyForegroundProcessing@0 @222
+ InitializeProfiles=InitializeProfiles@0 @100 NONAME
+ CreateGroupA=CreateGroupA@8 @101 NONAME
+ CreateGroupW=CreateGroupW@8 @102 NONAME
+ DeleteGroupA=DeleteGroupA@8 @103 NONAME
+ DeleteGroupW=DeleteGroupW@8 @104 NONAME
+ AddItemA=AddItemA@36 @105 NONAME
+ AddItemW=AddItemW@36 @106 NONAME
+ DeleteItemA=DeleteItemA@16 @107 NONAME
+ DeleteItemW=DeleteItemW@16 @108 NONAME
+ CreateUserProfileA=CreateUserProfileA@8 @109 NONAME
+ CreateUserProfileW=CreateUserProfileW@8 @110 NONAME
+ CopyProfileDirectoryA=CopyProfileDirectoryA@12 @111 NONAME
+ CopyProfileDirectoryW=CopyProfileDirectoryW@12 @112 NONAME
+ AddDesktopItemA=AddDesktopItemA@32 @113 NONAME
+ AddDesktopItemW=AddDesktopItemW@32 @114 NONAME
+ DeleteDesktopItemA=DeleteDesktopItemA@8 @115 NONAME
+ DeleteDesktopItemW=DeleteDesktopItemW@8 @116 NONAME
+ ApplyGroupPolicy @117 NONAME
+ ShutdownGPOProcessing @118 NONAME
+ CreateLinkFileA @119 NONAME
+ CreateLinkFileW @120 NONAME
+ DeleteLinkFileA @121 NONAME
+ DeleteLinkFileW @122 NONAME
+ CopyProfileDirectoryExA @123 NONAME
+ CopyProfileDirectoryExW @124 NONAME
+ GetSystemTempDirectoryA @125 NONAME
+ GetSystemTempDirectoryW @126 NONAME
+ MigrateNT4ToNT5 @127 NONAME
+ ResetUserSpecialFolderPaths @128 NONAME
+ ApplySystemPolicyA @129 NONAME
+ ApplySystemPolicyW @130 NONAME
+ DetermineProfilesLocation @131 NONAME
+ PingComputer @135 NONAME
+ CreateGroupExA @136 NONAME
+ CreateGroupExW @137 NONAME
+ CreateLinkFileExA @138 NONAME
+ CreateLinkFileExW @139 NONAME
+ InitializeUserProfile @140 NONAME
+ GetUserSid=GetUserSid@4 @142 NONAME
+ SecureUserProfiles @143 NONAME
+ EnterUserProfileLock @144 NONAME
+ LeaveUserProfileLock @145 NONAME
+ CheckAccessForPolicyGeneration @146 NONAME
+ GetGroupPolicyNetworkName @147 NONAME
+ GetUserAppDataPathA @148 NONAME
+ GetUserAppDataPathW @149 NONAME
+ SignalUserPolicyForegroundProcessingDone @150 NONAME
+ SignalMachinePolicyForegroundProcessingDone @151 NONAME
+ IsSyncForegroundPolicyRefresh @152 NONAME
+ CreateUserProfileExA=CreateUserProfileExA@24 @153 NONAME
+ CreateUserProfileExW=CreateUserProfileExW@24 @154 NONAME
+ CopySystemProfile @155 NONAME
+ GetUserProfileDirFromSidA @156 NONAME
+ GetUserProfileDirFromSidW @157 NONAME
+ SetNextFgPolicyRefreshInfo @158 NONAME
+ TranslateNameXForest @159 NONAME
+ AllocGpContainer @160 NONAME
+ AddGPO @161 NONAME
+ GetWbemServices @162 NONAME
+ FilterGPOs @163 NONAME
+ ProcessMachAndUserGpoList @164 NONAME
+ GPOExceptionFilter @165 NONAME
+ LogExtSessionStatus @166 NONAME
+ UpdateExtSessionStatus @167 NONAME
+ UnloadGPExtensions @168 NONAME
+ FreeGpoInfo @169 NONAME
+ LogSessionData @170 NONAME
+ LogGpoData @171 NONAME
+ ReadGPExtensions @172 NONAME
+ CheckForSkippedExtensions @173 NONAME
+ SetupGPOFilter @174 NONAME
+ CheckXForestLogon @175 NONAME
+ CreateURLFile @200 NONAME
+ DeleteURLFile @201 NONAME

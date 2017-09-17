@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME untfs.dll
+
+EXPORTS
+ ChkdskEx=NtfsChkdsk@24
+ FormatEx=NtfsFormat@24

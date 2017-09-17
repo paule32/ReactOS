@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME iernonce.dll
+
+EXPORTS
+ RunOnceExProcess=RunOnceExProcess@16

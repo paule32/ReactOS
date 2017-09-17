@@ -1,0 +1,30 @@
+; File generated automatically, do not edit!
+
+NAME comdlg32.dll
+
+EXPORTS
+ ChooseColorA=ChooseColorA@4
+ ChooseColorW=ChooseColorW@4
+ ChooseFontA=ChooseFontA@4
+ ChooseFontW=ChooseFontW@4
+ CommDlgExtendedError=CommDlgExtendedError@0
+ FindTextA=FindTextA@4
+ FindTextW=FindTextW@4
+ GetFileTitleA=GetFileTitleA@12
+ GetFileTitleW=GetFileTitleW@12
+ GetOpenFileNameA=GetOpenFileNameA@4
+ GetOpenFileNameW=GetOpenFileNameW@4
+ GetSaveFileNameA=GetSaveFileNameA@4
+ GetSaveFileNameW=GetSaveFileNameW@4
+ LoadAlterBitmap
+ PageSetupDlgA=PageSetupDlgA@4
+ PageSetupDlgW=PageSetupDlgW@4
+ PrintDlgA=PrintDlgA@4
+ PrintDlgExA=PrintDlgExA@4
+ PrintDlgExW=PrintDlgExW@4
+ PrintDlgW=PrintDlgW@4
+ ReplaceTextA=ReplaceTextA@4
+ ReplaceTextW=ReplaceTextW@4
+ WantArrows
+ dwLBSubclass
+ dwOKSubclass

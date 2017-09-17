@@ -1,0 +1,12 @@
+; File generated automatically, do not edit!
+
+NAME drmk.sys
+
+EXPORTS
+ DrmAddContentHandlers=DrmAddContentHandlers@12
+ DrmCreateContentMixed=DrmCreateContentMixed@12
+ DrmDestroyContent=DrmDestroyContent@4
+ DrmForwardContentToDeviceObject=DrmForwardContentToDeviceObject@12
+ DrmForwardContentToFileObject=DrmForwardContentToFileObject@8
+ DrmForwardContentToInterface=DrmForwardContentToInterface@12
+ DrmGetContentRights=DrmGetContentRights@8

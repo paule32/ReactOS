@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME winemp3.acm
+
+EXPORTS
+ DriverProc=MPEG3_DriverProc@20 PRIVATE

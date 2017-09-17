@@ -1,0 +1,14 @@
+; File generated automatically, do not edit!
+
+NAME ntmarta.dll
+
+EXPORTS
+ AccFreeIndexArray=AccFreeIndexArray@12
+ AccGetInheritanceSource=AccGetInheritanceSource@40
+ AccRewriteGetExplicitEntriesFromAcl=AccRewriteGetExplicitEntriesFromAcl@12
+ AccRewriteGetHandleRights=AccRewriteGetHandleRights@32
+ AccRewriteGetNamedRights=AccRewriteGetNamedRights@32
+ AccRewriteSetEntriesInAcl=AccRewriteSetEntriesInAcl@16
+ AccRewriteSetHandleRights=AccRewriteSetHandleRights@16
+ AccRewriteSetNamedRights=AccRewriteSetNamedRights@16
+ AccTreeResetNamedSecurityInfo=AccTreeResetNamedSecurityInfo@44

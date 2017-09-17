@@ -1,0 +1,10 @@
+; File generated automatically, do not edit!
+
+NAME qmgrprxy.dll
+
+EXPORTS
+ DllCanUnloadNow=DllCanUnloadNow@0 PRIVATE
+ DllGetClassObject=DllGetClassObject@12 PRIVATE
+ DllRegisterServer=DllRegisterServer@0 PRIVATE
+ DllUnregisterServer=DllUnregisterServer@0 PRIVATE
+ GetProxyDllInfo=GetProxyDllInfo@8 PRIVATE

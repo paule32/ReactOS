@@ -1,0 +1,13 @@
+; File generated automatically, do not edit!
+
+NAME icmp.dll
+
+EXPORTS
+ IcmpCloseHandle=iphlpapi.IcmpCloseHandle @1
+ IcmpCreateFile=iphlpapi.IcmpCreateFile @2
+ IcmpParseReplies=iphlpapi.IcmpParseReplies @3
+ IcmpSendEcho2=iphlpapi.IcmpSendEcho2 @4
+ IcmpSendEcho=iphlpapi.IcmpSendEcho @5
+ do_echo_rep @6
+ do_echo_req @7
+ register_icmp @8

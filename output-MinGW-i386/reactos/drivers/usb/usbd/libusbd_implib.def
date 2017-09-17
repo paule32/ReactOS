@@ -1,0 +1,21 @@
+; File generated automatically, do not edit!
+
+NAME usbd.sys
+
+EXPORTS
+ USBD_Debug_GetHeap@16
+ USBD_Debug_RetHeap@12
+ USBD_Debug_LogEntry@16
+ USBD_CalculateUsbBandwidth@12
+ USBD_CreateConfigurationRequest@8
+ USBD_CreateConfigurationRequestEx@8=USBD_CreateConfigurationRequestEx@8==_USBD_CreateConfigurationRequestEx@8
+ USBD_CreateConfigurationRequestEx@8
+ USBD_GetInterfaceLength@8
+ USBD_GetPdoRegistryParameter@20
+ USBD_GetUSBDIVersion@4
+ USBD_ParseConfigurationDescriptor@12
+ USBD_ParseConfigurationDescriptorEx@28=USBD_ParseConfigurationDescriptorEx@28==_USBD_ParseConfigurationDescriptorEx@28
+ USBD_ParseConfigurationDescriptorEx@28
+ USBD_ParseDescriptors@16=USBD_ParseDescriptors@16==_USBD_ParseDescriptors@16
+ USBD_ParseDescriptors@16
+ USBD_QueryBusTime@8

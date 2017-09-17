@@ -1,0 +1,39 @@
+; File generated automatically, do not edit!
+
+NAME portcls.sys
+
+EXPORTS
+ DllInitialize=DllInitialize@4 PRIVATE
+ DllUnload=DllUnload@0 PRIVATE
+ PcAddAdapterDevice=PcAddAdapterDevice@20
+ PcInitializeAdapterDriver=PcInitializeAdapterDriver@12
+ PcNewDmaChannel=PcNewDmaChannel@20
+ PcNewInterruptSync=PcNewInterruptSync@20
+ PcNewMiniport=PcNewMiniport@8
+ PcNewPort=PcNewPort@8
+ PcNewRegistryKey=PcNewRegistryKey@36
+ PcNewResourceList=PcNewResourceList@20
+ PcNewResourceSublist=PcNewResourceSublist@20
+ PcNewServiceGroup=PcNewServiceGroup@8
+ PcAddContentHandlers=PcAddContentHandlers@12
+ PcCreateContentMixed=PcCreateContentMixed@12
+ PcDestroyContent=PcDestroyContent@4
+ PcForwardContentToDeviceObject=PcForwardContentToDeviceObject@12
+ PcForwardContentToFileObject=PcForwardContentToFileObject@8
+ PcForwardContentToInterface=PcForwardContentToInterface@12
+ PcGetContentRights=PcGetContentRights@8
+ PcCompleteIrp=PcCompleteIrp@12
+ PcDispatchIrp=PcDispatchIrp@8
+ PcForwardIrpSynchronous=PcForwardIrpSynchronous@8
+ PcGetTimeInterval=PcGetTimeInterval@8
+ PcRegisterSubdevice=PcRegisterSubdevice@12
+ PcRegisterPhysicalConnection=PcRegisterPhysicalConnection@20
+ PcRegisterPhysicalConnectionFromExternal=PcRegisterPhysicalConnectionFromExternal@20
+ PcRegisterPhysicalConnectionToExternal=PcRegisterPhysicalConnectionToExternal@20
+ PcRegisterAdapterPowerManagement=PcRegisterAdapterPowerManagement@8
+ PcRequestNewPowerState=PcRequestNewPowerState@8
+ PcUnregisterAdapterPowerManagement=PcUnregisterAdapterPowerManagement@4
+ PcCompletePendingPropertyRequest=PcCompletePendingPropertyRequest@8
+ PcGetDeviceProperty=PcGetDeviceProperty@20
+ PcRegisterIoTimeout=PcRegisterIoTimeout@12
+ PcUnregisterIoTimeout=PcUnregisterIoTimeout@12

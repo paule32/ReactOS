@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME mmdrv.dll
+
+EXPORTS
+ DriverProc=DriverProc@20
+ wodMessage=wodMessage@20

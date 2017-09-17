@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME usbport.sys
+
+EXPORTS
+ USBPORT_GetHciMn=USBPORT_GetHciMn@0
+ USBPORT_RegisterUSBPortDriver=USBPORT_RegisterUSBPortDriver@12

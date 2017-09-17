@@ -1,0 +1,62 @@
+; File generated automatically, do not edit!
+
+NAME odbccp32.dll
+
+EXPORTS
+ SQLInstallDriver=SQLInstallDriver@20 @2
+ SQLInstallDriverManager=SQLInstallDriverManager@12 @3
+ SQLGetInstalledDrivers=SQLGetInstalledDrivers@12 @4
+ SQLGetAvailableDrivers=SQLGetAvailableDrivers@16 @5
+ SQLConfigDataSource=SQLConfigDataSource@16 @6
+ SQLRemoveDefaultDataSource=SQLRemoveDefaultDataSource@0 @7
+ SQLWriteDSNToIni=SQLWriteDSNToIni@8 @8
+ SQLRemoveDSNFromIni=SQLRemoveDSNFromIni@4 @9
+ SQLInstallODBC=SQLInstallODBC@16 @10
+ SQLManageDataSources=SQLManageDataSources@4 @11
+ SQLCreateDataSource=SQLCreateDataSource@8 @12
+ SQLGetTranslator=SQLGetTranslator@32 @13
+ SQLWritePrivateProfileString=SQLWritePrivateProfileString@16 @14
+ SQLGetPrivateProfileString=SQLGetPrivateProfileString@24 @15
+ SQLValidDSN=SQLValidDSN@4 @16
+ SQLRemoveDriverManager=SQLRemoveDriverManager@4 @17
+ SQLInstallTranslator=SQLInstallTranslator@32 @18
+ SQLRemoveTranslator=SQLRemoveTranslator@8 @19
+ SQLRemoveDriver=SQLRemoveDriver@12 @20
+ SQLConfigDriver=SQLConfigDriver@28 @21
+ SQLInstallerError=SQLInstallerError@20 @22
+ SQLPostInstallerError=SQLPostInstallerError@8 @23
+ SQLReadFileDSN=SQLReadFileDSN@24 @24
+ SQLWriteFileDSN=SQLWriteFileDSN@16 @25
+ SQLInstallDriverEx=SQLInstallDriverEx@28 @26
+ SQLGetConfigMode=SQLGetConfigMode@4 @27
+ SQLSetConfigMode=SQLSetConfigMode@4 @28
+ SQLInstallTranslatorEx=SQLInstallTranslatorEx@28 @29
+ SQLCreateDataSourceEx @30
+ ODBCCPlApplet=ODBCCPlApplet@16 @101
+ SelectTransDlg @112
+ SQLInstallDriverW=SQLInstallDriverW@20 @202
+ SQLInstallDriverManagerW=SQLInstallDriverManagerW@12 @203
+ SQLGetInstalledDriversW=SQLGetInstalledDriversW@12 @204
+ SQLGetAvailableDriversW=SQLGetAvailableDriversW@16 @205
+ SQLConfigDataSourceW=SQLConfigDataSourceW@16 @206
+ SQLWriteDSNToIniW=SQLWriteDSNToIniW@8 @208
+ SQLRemoveDSNFromIniW=SQLRemoveDSNFromIniW@4 @209
+ SQLInstallODBCW=SQLInstallODBCW@16 @210
+ SQLCreateDataSourceW=SQLCreateDataSourceW@8 @212
+ SQLGetTranslatorW=SQLGetTranslatorW@32 @213
+ SQLWritePrivateProfileStringW=SQLWritePrivateProfileStringW@16 @214
+ SQLGetPrivateProfileStringW=SQLGetPrivateProfileStringW@24 @215
+ SQLValidDSNW=SQLValidDSNW@4 @216
+ SQLInstallTranslatorW=SQLInstallTranslatorW@32 @218
+ SQLRemoveTranslatorW=SQLRemoveTranslatorW@8 @219
+ SQLRemoveDriverW=SQLRemoveDriverW@12 @220
+ SQLConfigDriverW=SQLConfigDriverW@28 @221
+ SQLInstallerErrorW=SQLInstallerErrorW@20 @222
+ SQLPostInstallerErrorW=SQLPostInstallerErrorW@8 @223
+ SQLReadFileDSNW=SQLReadFileDSNW@24 @224
+ SQLWriteFileDSNW=SQLWriteFileDSNW@16 @225
+ SQLInstallDriverExW=SQLInstallDriverExW@28 @226
+ SQLInstallTranslatorExW=SQLInstallTranslatorExW@28 @229
+ SQLCreateDataSourceExW @230
+ SQLLoadDriverListBox @231
+ SQLLoadDataSourcesListBox @232

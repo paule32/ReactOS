@@ -1,0 +1,28 @@
+; File generated automatically, do not edit!
+
+NAME powrprof.dll
+
+EXPORTS
+ CallNtPowerInformation=CallNtPowerInformation@20
+ CanUserWritePwrScheme=CanUserWritePwrScheme@0
+ DeletePwrScheme=DeletePwrScheme@4
+ EnumPwrSchemes=EnumPwrSchemes@8
+ GetActivePwrScheme=GetActivePwrScheme@4
+ GetCurrentPowerPolicies=GetCurrentPowerPolicies@8
+ GetPwrCapabilities=GetPwrCapabilities@4
+ GetPwrDiskSpindownRange=GetPwrDiskSpindownRange@8
+ IsAdminOverrideActive=IsAdminOverrideActive@4
+ IsPwrHibernateAllowed=IsPwrHibernateAllowed@0
+ IsPwrShutdownAllowed=IsPwrShutdownAllowed@0
+ IsPwrSuspendAllowed=IsPwrSuspendAllowed@0
+ PowerGetActiveScheme=PowerGetActiveScheme@8
+ PowerReadDCValue=PowerReadDCValue@28
+ ReadGlobalPwrPolicy=ReadGlobalPwrPolicy@4
+ ReadProcessorPwrScheme=ReadProcessorPwrScheme@8
+ ReadPwrScheme=ReadPwrScheme@8
+ SetActivePwrScheme=SetActivePwrScheme@12
+ SetSuspendState=SetSuspendState@12
+ WriteGlobalPwrPolicy=WriteGlobalPwrPolicy@4
+ WriteProcessorPwrScheme=WriteProcessorPwrScheme@8
+ WritePwrScheme=WritePwrScheme@16
+ ValidatePowerPolicies=ValidatePowerPolicies@8

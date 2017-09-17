@@ -1,0 +1,50 @@
+; File generated automatically, do not edit!
+
+NAME wmi.dll
+
+EXPORTS
+ CloseTrace=advapi32.CloseTrace
+ ControlTraceA=advapi32.ControlTraceA
+ ControlTraceW=advapi32.ControlTraceW
+ CreateTraceInstanceId=advapi32.CreateTraceInstanceId
+ EnableTrace=advapi32.EnableTrace
+ GetTraceEnableFlags=advapi32.GetTraceEnableFlags
+ GetTraceEnableLevel=advapi32.GetTraceEnableLevel
+ GetTraceLoggerHandle=advapi32.GetTraceLoggerHandle
+ OpenTraceA=advapi32.OpenTraceA
+ OpenTraceW=advapi32.OpenTraceW
+ ProcessTrace=advapi32.ProcessTrace
+ QueryAllTracesA=advapi32.QueryAllTracesA
+ QueryAllTracesW=advapi32.QueryAllTracesW
+ RegisterTraceGuidsA=advapi32.RegisterTraceGuidsA
+ RegisterTraceGuidsW=advapi32.RegisterTraceGuidsW
+ RemoveTraceCallback=advapi32.RemoveTraceCallback
+ SetTraceCallback=advapi32.SetTraceCallback
+ StartTraceA=advapi32.StartTraceA
+ StartTraceW=advapi32.StartTraceW
+ TraceEvent=advapi32.TraceEvent
+ TraceEventInstance=advapi32.TraceEventInstance
+ UnregisterTraceGuids=advapi32.UnregisterTraceGuids
+ WmiCloseBlock=advapi32.WmiCloseBlock
+ WmiDevInstToInstanceNameA=advapi32.WmiDevInstToInstanceNameA
+ WmiDevInstToInstanceNameW=advapi32.WmiDevInstToInstanceNameW
+ WmiEnumerateGuids=advapi32.WmiEnumerateGuids
+ WmiExecuteMethodA=advapi32.WmiExecuteMethodA
+ WmiExecuteMethodW=advapi32.WmiExecuteMethodW
+ WmiFileHandleToInstanceNameA=advapi32.WmiFileHandleToInstanceNameA
+ WmiFileHandleToInstanceNameW=advapi32.WmiFileHandleToInstanceNameW
+ WmiFreeBuffer=advapi32.WmiFreeBuffer
+ WmiMofEnumerateResourcesA=advapi32.WmiMofEnumerateResourcesA
+ WmiMofEnumerateResourcesW=advapi32.WmiMofEnumerateResourcesW
+ WmiNotificationRegistrationA=advapi32.WmiNotificationRegistrationA
+ WmiNotificationRegistrationW=advapi32.WmiNotificationRegistrationW
+ WmiOpenBlock=advapi32.WmiOpenBlock
+ WmiQueryAllDataA=advapi32.WmiQueryAllDataA
+ WmiQueryAllDataW=advapi32.WmiQueryAllDataW
+ WmiQueryGuidInformation=advapi32.WmiQueryGuidInformation
+ WmiQuerySingleInstanceA=advapi32.WmiQuerySingleInstanceA
+ WmiQuerySingleInstanceW=advapi32.WmiQuerySingleInstanceW
+ WmiSetSingleInstanceA=advapi32.WmiSetSingleInstanceA
+ WmiSetSingleInstanceW=advapi32.WmiSetSingleInstanceW
+ WmiSetSingleItemA=advapi32.WmiSetSingleItemA
+ WmiSetSingleItemW=advapi32.WmiSetSingleItemW

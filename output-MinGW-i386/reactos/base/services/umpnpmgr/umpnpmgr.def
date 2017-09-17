@@ -1,0 +1,14 @@
+; File generated automatically, do not edit!
+
+NAME umpnpmgr.dll
+
+EXPORTS
+ DeleteServicePlugPlayRegKeys
+ PNP_GetDeviceList=PNP_GetDeviceList@20
+ PNP_GetDeviceListSize=PNP_GetDeviceListSize@16
+ PNP_GetDeviceRegProp=PNP_GetDeviceRegProp@32
+ PNP_HwProfFlags=PNP_HwProfFlags@36
+ PNP_SetActiveService=PNP_SetActiveService@12
+ RegisterScmCallback
+ RegisterServiceNotification
+ ServiceMain=ServiceMain@8

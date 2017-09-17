@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME mciseq.dll
+
+EXPORTS
+ DriverProc=MCIMIDI_DriverProc@20 PRIVATE

@@ -1,0 +1,68 @@
+; File generated automatically, do not edit!
+
+NAME winscard.dll
+
+EXPORTS
+ ClassInstall32=ClassInstall32@12
+ SCardAccessNewReaderEvent=SCardAccessNewReaderEvent@0
+ SCardReleaseAllEvents=SCardReleaseAllEvents@0
+ SCardReleaseNewReaderEvent
+ SCardAccessStartedEvent=SCardAccessStartedEvent@0
+ SCardAddReaderToGroupA=SCardAddReaderToGroupA@12
+ SCardAddReaderToGroupW=SCardAddReaderToGroupW@12
+ SCardBeginTransaction=SCardBeginTransaction@4
+ SCardCancel=SCardCancel@4
+ SCardConnectA=SCardConnectA@24
+ SCardConnectW=SCardConnectW@24
+ SCardControl=SCardControl@28
+ SCardDisconnect=SCardDisconnect@8
+ SCardEndTransaction=SCardEndTransaction@8
+ SCardEstablishContext=SCardEstablishContext@16
+ SCardForgetCardTypeA=SCardForgetCardTypeA@8
+ SCardForgetCardTypeW=SCardForgetCardTypeW@8
+ SCardForgetReaderA=SCardForgetReaderA@8
+ SCardForgetReaderGroupA=SCardForgetReaderGroupA@8
+ SCardForgetReaderGroupW=SCardForgetReaderGroupW@8
+ SCardForgetReaderW=SCardForgetReaderW@8
+ SCardFreeMemory=SCardFreeMemory@8
+ SCardGetAttrib=SCardGetAttrib@16
+ SCardGetCardTypeProviderNameA=SCardGetCardTypeProviderNameA@20
+ SCardGetCardTypeProviderNameW=SCardGetCardTypeProviderNameW@20
+ SCardGetProviderIdA=SCardGetProviderIdA@12
+ SCardGetProviderIdW=SCardGetProviderIdW@12
+ SCardGetStatusChangeA=SCardGetStatusChangeA@16
+ SCardGetStatusChangeW=SCardGetStatusChangeW@16
+ SCardIntroduceCardTypeA=SCardIntroduceCardTypeA@32
+ SCardIntroduceCardTypeW=SCardIntroduceCardTypeW@32
+ SCardIntroduceReaderA=SCardIntroduceReaderA@12
+ SCardIntroduceReaderGroupA=SCardIntroduceReaderGroupA@8
+ SCardIntroduceReaderGroupW=SCardIntroduceReaderGroupW@8
+ SCardIntroduceReaderW=SCardIntroduceReaderW@12
+ SCardIsValidContext=SCardIsValidContext@4
+ SCardListCardsA=SCardListCardsA@24
+ SCardListCardsW=SCardListCardsW@24
+ SCardListInterfacesA=SCardListInterfacesA@16
+ SCardListInterfacesW=SCardListInterfacesW@16
+ SCardListReaderGroupsA=SCardListReaderGroupsA@12
+ SCardListReaderGroupsW=SCardListReaderGroupsW@12
+ SCardListReadersA=SCardListReadersA@16
+ SCardListReadersW=SCardListReadersW@16
+ SCardLocateCardsA=SCardLocateCardsA@16
+ SCardLocateCardsByATRA=SCardLocateCardsByATRA@20
+ SCardLocateCardsByATRW=SCardLocateCardsByATRW@20
+ SCardLocateCardsW=SCardLocateCardsW@16
+ SCardReconnect=SCardReconnect@20
+ SCardReleaseContext=SCardReleaseContext@4
+ SCardReleaseStartedEvent=SCardReleaseStartedEvent@0
+ SCardRemoveReaderFromGroupA=SCardRemoveReaderFromGroupA@12
+ SCardRemoveReaderFromGroupW=SCardRemoveReaderFromGroupW@12
+ SCardSetAttrib=SCardSetAttrib@16
+ SCardSetCardTypeProviderNameA=SCardSetCardTypeProviderNameA@16
+ SCardSetCardTypeProviderNameW=SCardSetCardTypeProviderNameW@16
+ SCardState=SCardState@20
+ SCardStatusA=SCardStatusA@28
+ SCardStatusW=SCardStatusW@28
+ SCardTransmit=SCardTransmit@28
+ g_rgSCardRawPci DATA
+ g_rgSCardT0Pci DATA
+ g_rgSCardT1Pci DATA

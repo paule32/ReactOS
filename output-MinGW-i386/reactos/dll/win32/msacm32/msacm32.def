@@ -1,0 +1,49 @@
+; File generated automatically, do not edit!
+
+NAME msacm32.dll
+
+EXPORTS
+ acmDriverAddA=acmDriverAddA@20
+ acmDriverAddW=acmDriverAddW@20
+ acmDriverClose=acmDriverClose@8
+ acmDriverDetailsA=acmDriverDetailsA@12
+ acmDriverDetailsW=acmDriverDetailsW@12
+ acmDriverEnum=acmDriverEnum@12
+ acmDriverID=acmDriverID@12
+ acmDriverMessage=acmDriverMessage@16
+ acmDriverOpen=acmDriverOpen@12
+ acmDriverPriority=acmDriverPriority@12
+ acmDriverRemove=acmDriverRemove@8
+ acmFilterChooseA=acmFilterChooseA@4
+ acmFilterChooseW=acmFilterChooseW@4
+ acmFilterDetailsA=acmFilterDetailsA@12
+ acmFilterDetailsW=acmFilterDetailsW@12
+ acmFilterEnumA=acmFilterEnumA@20
+ acmFilterEnumW=acmFilterEnumW@20
+ acmFilterTagDetailsA=acmFilterTagDetailsA@12
+ acmFilterTagDetailsW=acmFilterTagDetailsW@12
+ acmFilterTagEnumA=acmFilterTagEnumA@20
+ acmFilterTagEnumW=acmFilterTagEnumW@20
+ acmFormatChooseA=acmFormatChooseA@4
+ acmFormatChooseW=acmFormatChooseW@4
+ acmFormatDetailsA=acmFormatDetailsA@12
+ acmFormatDetailsW=acmFormatDetailsW@12
+ acmFormatEnumA=acmFormatEnumA@20
+ acmFormatEnumW=acmFormatEnumW@20
+ acmFormatSuggest=acmFormatSuggest@20
+ acmFormatTagDetailsA=acmFormatTagDetailsA@12
+ acmFormatTagDetailsW=acmFormatTagDetailsW@12
+ acmFormatTagEnumA=acmFormatTagEnumA@20
+ acmFormatTagEnumW=acmFormatTagEnumW@20
+ acmGetVersion=acmGetVersion@0
+ acmMessage32
+ acmMetrics=acmMetrics@12
+ acmStreamClose=acmStreamClose@8
+ acmStreamConvert=acmStreamConvert@12
+ acmStreamMessage=acmStreamMessage@16
+ acmStreamOpen=acmStreamOpen@32
+ acmStreamPrepareHeader=acmStreamPrepareHeader@12
+ acmStreamReset=acmStreamReset@8
+ acmStreamSize=acmStreamSize@16
+ acmStreamUnprepareHeader=acmStreamUnprepareHeader@12
+ DriverProc=PCM_DriverProc@20 PRIVATE

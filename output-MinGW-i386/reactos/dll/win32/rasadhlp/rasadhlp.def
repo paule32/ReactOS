@@ -1,0 +1,11 @@
+; File generated automatically, do not edit!
+
+NAME rasadhlp.dll
+
+EXPORTS
+ AcsHlpAttemptConnection=AcsHlpAttemptConnection@4
+ AcsHlpNbConnection
+ AcsHlpNoteNewConnection=AcsHlpNoteNewConnection@8
+ WSAttemptAutodialAddr=WSAttemptAutodialAddr@8
+ WSAttemptAutodialName=WSAttemptAutodialName@4
+ WSNoteSuccessfulHostentLookup=WSNoteSuccessfulHostentLookup@8

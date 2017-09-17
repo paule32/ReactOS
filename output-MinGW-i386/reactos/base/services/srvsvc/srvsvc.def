@@ -1,0 +1,6 @@
+; File generated automatically, do not edit!
+
+NAME srvsvc.dll
+
+EXPORTS
+ ServiceMain=ServiceMain@8

@@ -1,0 +1,33 @@
+; File generated automatically, do not edit!
+
+NAME nddeapi.dll
+
+EXPORTS
+ NDdeShareAddA=NDdeShareAddA@20 @500
+ NDdeShareDelA=NDdeShareDelA@12 @501
+ NDdeShareEnumA=NDdeShareEnumA@24 @502
+ NDdeShareGetInfoA=NDdeShareGetInfoA@28 @503
+ NDdeShareSetInfoA=NDdeShareSetInfoA@24 @504
+ NDdeGetErrorStringA=NDdeGetErrorStringA@12 @505
+ NDdeIsValidShareNameA=NDdeIsValidShareNameA@4 @506
+ NDdeIsValidAppTopicListA=NDdeIsValidAppTopicListA@4 @507
+ NDdeGetShareSecurityA=NDdeGetShareSecurityA@24 @509
+ NDdeSetShareSecurityA=NDdeSetShareSecurityA@16 @510
+ NDdeGetTrustedShareA=NDdeGetTrustedShareA@20 @511
+ NDdeSetTrustedShareA=NDdeSetTrustedShareA@12 @512
+ NDdeTrustedShareEnumA=NDdeTrustedShareEnumA@24 @513
+ NDdeShareAddW=NDdeShareAddW@20 @600
+ NDdeShareDelW=NDdeShareDelW@12 @601
+ NDdeShareEnumW=NDdeShareEnumW@24 @602
+ NDdeShareGetInfoW=NDdeShareGetInfoW@28 @603
+ NDdeShareSetInfoW=NDdeShareSetInfoW@24 @604
+ NDdeGetErrorStringW=NDdeGetErrorStringW@12 @605
+ NDdeIsValidShareNameW=NDdeIsValidShareNameW@4 @606
+ NDdeIsValidAppTopicListW=NDdeIsValidAppTopicListW@4 @607
+ NDdeGetShareSecurityW=NDdeGetShareSecurityW@24 @609
+ NDdeSetShareSecurityW=NDdeSetShareSecurityW@16 @610
+ NDdeGetTrustedShareW=NDdeGetTrustedShareW@20 @611
+ NDdeSetTrustedShareW=NDdeSetTrustedShareW@12 @612
+ NDdeTrustedShareEnumW=NDdeTrustedShareEnumW@24 @613
+ NDdeSpecialCommandA
+ NDdeSpecialCommandW

@@ -1,0 +1,21 @@
+; File generated automatically, do not edit!
+
+NAME version.dll
+
+EXPORTS
+ GetFileVersionInfoA=GetFileVersionInfoA@16
+ GetFileVersionInfoExA=GetFileVersionInfoExA@20
+ GetFileVersionInfoExW=GetFileVersionInfoExW@20
+ GetFileVersionInfoSizeA=GetFileVersionInfoSizeA@8
+ GetFileVersionInfoSizeExA=GetFileVersionInfoSizeExA@12
+ GetFileVersionInfoSizeExW=GetFileVersionInfoSizeExW@12
+ GetFileVersionInfoSizeW=GetFileVersionInfoSizeW@8
+ GetFileVersionInfoW=GetFileVersionInfoW@16
+ VerFindFileA=VerFindFileA@32
+ VerFindFileW=VerFindFileW@32
+ VerInstallFileA=VerInstallFileA@32
+ VerInstallFileW=VerInstallFileW@32
+ VerLanguageNameA=kernel32.VerLanguageNameA
+ VerLanguageNameW=kernel32.VerLanguageNameW
+ VerQueryValueA=VerQueryValueA@16
+ VerQueryValueW=VerQueryValueW@16

@@ -1,0 +1,17 @@
+; File generated automatically, do not edit!
+
+NAME msports.dll
+
+EXPORTS
+ ComDBClaimNextFreePort=ComDBClaimNextFreePort@8
+ ComDBClaimPort=ComDBClaimPort@16
+ ComDBClose=ComDBClose@4
+ ComDBGetCurrentPortUsage=ComDBGetCurrentPortUsage@20
+ ComDBOpen=ComDBOpen@4
+ ComDBReleasePort=ComDBReleasePort@8
+ ComDBResizeDatabase=ComDBResizeDatabase@8
+ LibMain=DllMain@12
+ ParallelPortPropPageProvider=ParallelPortPropPageProvider@12
+ PortsClassInstaller=PortsClassInstaller@12
+ SerialDisplayAdvancedSettings
+ SerialPortPropPageProvider=SerialPortPropPageProvider@12

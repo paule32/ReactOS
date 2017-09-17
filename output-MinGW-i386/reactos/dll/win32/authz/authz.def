@@ -1,0 +1,46 @@
+; File generated automatically, do not edit!
+
+NAME authz.dll
+
+EXPORTS
+ AuthzAccessCheck=AuthzAccessCheck@36 @1
+ AuthzAddSidsToContext=AuthzAddSidsToContext@24 @2
+ AuthzCachedAccessCheck=AuthzCachedAccessCheck@20 @3
+ AuthzEnumerateSecurityEventSources=AuthzEnumerateSecurityEventSources@16 @4
+ AuthzFreeAuditEvent=AuthzFreeAuditEvent@4 @5
+ AuthzFreeContext=AuthzFreeContext@4 @6
+ AuthzFreeHandle=AuthzFreeHandle@4 @7
+ AuthzFreeResourceManager=AuthzFreeResourceManager@4 @8
+ AuthzGetInformationFromContext=AuthzGetInformationFromContext@20 @9
+ AuthzInitializeContextFromAuthzContext=AuthzInitializeContextFromAuthzContext@28 @10
+ AuthzInitializeContextFromSid=AuthzInitializeContextFromSid@32 @11
+ AuthzInitializeContextFromToken=AuthzInitializeContextFromToken@32 @12
+ AuthzInitializeObjectAccessAuditEvent @13
+ AuthzInitializeObjectAccessAuditEvent2 @14
+ AuthzInitializeResourceManager=AuthzInitializeResourceManager@24 @15
+ AuthzInstallSecurityEventSource=AuthzInstallSecurityEventSource@8 @16
+ AuthzOpenObjectAudit=AuthzOpenObjectAudit@32 @17
+ AuthzRegisterSecurityEventSource=AuthzRegisterSecurityEventSource@12 @18
+ AuthzReportSecurityEvent=authz.AuthzReportSecurityEvent @19
+ AuthzReportSecurityEventFromParams=AuthzReportSecurityEventFromParams@20 @20
+ AuthzUninstallSecurityEventSource=AuthzUninstallSecurityEventSource@8 @21
+ AuthzUnregisterSecurityEventSource=AuthzUnregisterSecurityEventSource@8 @22
+ AuthziAllocateAuditParams @23
+ AuthziFreeAuditEventType @24
+ AuthziFreeAuditParams @25
+ AuthziFreeAuditQueue @26
+ AuthziInitializeAuditEvent @27
+ AuthziInitializeAuditEventType @28
+ AuthziInitializeAuditParams @29
+ AuthziInitializeAuditParamsFromArray @30
+ AuthziInitializeAuditParamsWithRM @31
+ AuthziInitializeAuditQueue @32
+ AuthziInitializeContextFromSid @33
+ AuthziLogAuditEvent @34
+ AuthziModifyAuditEvent2 @35
+ AuthziModifyAuditEvent @36
+ AuthziModifyAuditEventType @37
+ AuthziModifyAuditQueue @38
+ AuthziQueryAuditPolicy @39
+ AuthziSetAuditPolicy @40
+ AuthziSourceAudit @41

@@ -1,0 +1,7 @@
+; File generated automatically, do not edit!
+
+NAME uffs.dll
+
+EXPORTS
+ ChkdskEx=FfsChkdsk@24
+ FormatEx=FfsFormat@24

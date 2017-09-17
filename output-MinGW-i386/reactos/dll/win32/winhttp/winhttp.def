@@ -1,0 +1,36 @@
+; File generated automatically, do not edit!
+
+NAME winhttp.dll
+
+EXPORTS
+ DllCanUnloadNow=DllCanUnloadNow@0 PRIVATE
+ DllGetClassObject=DllGetClassObject@12 PRIVATE
+ DllRegisterServer=DllRegisterServer@0 PRIVATE
+ DllUnregisterServer=DllUnregisterServer@0 PRIVATE
+ WinHttpAddRequestHeaders=WinHttpAddRequestHeaders@16
+ WinHttpCheckPlatform=WinHttpCheckPlatform@0
+ WinHttpCloseHandle=WinHttpCloseHandle@4
+ WinHttpConnect=WinHttpConnect@16
+ WinHttpCrackUrl=WinHttpCrackUrl@16
+ WinHttpCreateUrl=WinHttpCreateUrl@16
+ WinHttpDetectAutoProxyConfigUrl=WinHttpDetectAutoProxyConfigUrl@8
+ WinHttpGetDefaultProxyConfiguration=WinHttpGetDefaultProxyConfiguration@4
+ WinHttpGetIEProxyConfigForCurrentUser=WinHttpGetIEProxyConfigForCurrentUser@4
+ WinHttpGetProxyForUrl=WinHttpGetProxyForUrl@16
+ WinHttpOpen=WinHttpOpen@20
+ WinHttpOpenRequest=WinHttpOpenRequest@28
+ WinHttpQueryAuthSchemes=WinHttpQueryAuthSchemes@16
+ WinHttpQueryDataAvailable=WinHttpQueryDataAvailable@8
+ WinHttpQueryHeaders=WinHttpQueryHeaders@24
+ WinHttpQueryOption=WinHttpQueryOption@16
+ WinHttpReadData=WinHttpReadData@16
+ WinHttpReceiveResponse=WinHttpReceiveResponse@8
+ WinHttpSendRequest=WinHttpSendRequest@28
+ WinHttpSetCredentials=WinHttpSetCredentials@24
+ WinHttpSetDefaultProxyConfiguration=WinHttpSetDefaultProxyConfiguration@4
+ WinHttpSetOption=WinHttpSetOption@16
+ WinHttpSetStatusCallback=WinHttpSetStatusCallback@16
+ WinHttpSetTimeouts=WinHttpSetTimeouts@20
+ WinHttpTimeFromSystemTime=WinHttpTimeFromSystemTime@8
+ WinHttpTimeToSystemTime=WinHttpTimeToSystemTime@8
+ WinHttpWriteData=WinHttpWriteData@16

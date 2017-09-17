@@ -1,0 +1,66 @@
+/*
+ * FILE:        base/applications/network/ping/lang/pl-PL.rc
+ * PURPOSE:     Polish translations for ReactOS Ping Command
+ * TRANSLATORS: Olaf Siejka (Caemyr)
+ */
+
+LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
+
+STRINGTABLE
+BEGIN
+    IDS_USAGE "\n\
+Sposób użycia: ping [-t] [-a] [-n ilość] [-l bajtów] [-f] [-i TTL] [-v TOS]\n\
+                    [-w czas] [-4] [-6] host-docelowy\n\
+\n\
+Options:\n\
+    -t        Ping the specified host until stopped.\n\
+              To see statistics and continue - type Control-Break;\n\
+              To stop - type Control-C.\n\
+    -a        Resolve addresses to hostnames.\n\
+    -n ilość  Ilość prób pingowania.\n\
+    -l bajtów Rozmiar pakietu echo w bajtach.\n\
+    -f        Set Don't Fragment flag in packet (IPv4-only).\n\
+    -i TTL    Time To Live.\n\
+    -v TOS    Type Of Service (IPv4-only. This setting has been deprecated\n\
+              and has no effect on the type of service field in the IP\n\
+              Header).\n\
+    -w czas   Opóźnienie oczekiwanej odpowiedzi, w milisekundach.\n\
+    -4        Force using IPv4.\n\
+    -6        Force using IPv6.\n\
+\n"
+
+    IDS_CTRL_BREAK "Control-Break\n"
+    IDS_CTRL_C "Control-C\n"
+    IDS_NO_RESOURCES "Brak dostępnych zasobów.\n"
+    IDS_MISSING_ADDRESS "IP address must be specified.\n"
+    IDS_MISSING_VALUE "Value must be supplied for option %s.\n"
+    IDS_BAD_OPTION "Nieprawidłowa opcja %s.\n"
+    IDS_BAD_PARAMETER "Nieprawidłowy parametr %s.\n"
+    IDS_BAD_VALUE "Nieprawidłowa wartość dla opcji %s, wymagana liczba naturalna od %u do %u.\n"
+    IDS_WRONG_FAMILY "The option %s is only supported for %s.\n"
+    IDS_UNKNOWN_HOST "Ping could not find host %s. Please check the name and try again.\n"
+    IDS_PINGING_ADDRESS "\nPingowanie %s "
+    IDS_PINGING_HOSTNAME "\nPingowanie %s [%s] "
+    IDS_SOURCE_ADDRESS "z %s %s"
+    IDS_PING_SIZE "przy użyciu %lu bajtów danych:\n\n"
+    IDS_REPLY_FROM "Odpowiedź z %s: "
+    IDS_REPLY_BYTES "bajtów=%d "
+    IDS_REPLY_TIME_MS "czas=%lums "
+    IDS_REPLY_TIME_0MS "czas<1ms "
+    IDS_REPLY_TTL "TTL=%d\n"
+    IDS_REPLY_STATUS "Echo reply returned %lu.\n"
+    IDS_DEST_HOST_UNREACHABLE "Destination host unreachable.\n"
+    IDS_DEST_NET_UNREACHABLE "Destination net unreachable.\n"
+    IDS_REQUEST_TIMED_OUT "Brak odpowiedzi.\n"
+    IDS_TTL_EXPIRED "TTL expired in transit.\n"
+    IDS_TRANSMIT_FAILED "PING: transmit failed. (Error %u)\n"
+
+    IDS_STATISTICS "\n\
+Statystyka rezultatu badania hosta %s:\n\
+    Pakiety: Wysłane = %d, Odebrane = %d, Utracone %d (%d%% strat),\n"
+
+    IDS_APPROXIMATE_RTT "Całkowity, przybliżony czas podróży pakietu w millisekundach:\n\
+    Minimum = %lums, Maksimum = %lums, Uśredniony = %lums\n"
+
+    IDS_WINSOCK_FAIL "Failed to initialize WinSock: %i\n"
+END

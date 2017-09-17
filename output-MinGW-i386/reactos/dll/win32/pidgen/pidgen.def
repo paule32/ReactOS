@@ -1,0 +1,12 @@
+; File generated automatically, do not edit!
+
+NAME pidgen.dll
+
+EXPORTS
+ PIDGenA
+ PIDGenW
+ PIDGenSimpA
+ PIDGenSimpW
+ SetupPIDGenA
+ SetupPIDGenW
+ VerifyPIDSequenceW
