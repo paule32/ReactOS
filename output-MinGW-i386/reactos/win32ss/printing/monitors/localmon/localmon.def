@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME localmon.dll
-
-EXPORTS
- InitializePrintMonitor2=InitializePrintMonitor2@8

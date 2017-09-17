@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME wkssvc.dll
-
-EXPORTS
- ServiceMain=ServiceMain@8

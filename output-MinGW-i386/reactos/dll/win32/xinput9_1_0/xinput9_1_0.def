@@ -1,9 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME xinput9_1_0.dll
-
-EXPORTS
- XInputGetCapabilities=xinput1_3.XInputGetCapabilities
- XInputGetDSoundAudioDeviceGuids=xinput1_3.XInputGetDSoundAudioDeviceGuids
- XInputSetState=xinput1_3.XInputSetState
- XInputGetState=xinput1_3.XInputGetState

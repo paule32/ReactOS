@@ -1,7 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME sxs.dll
-
-EXPORTS
- CreateAssemblyCache=CreateAssemblyCache@8
- CreateAssemblyNameObject=CreateAssemblyNameObject@16

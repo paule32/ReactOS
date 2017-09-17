@@ -1,7 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME dxg.sys
-
-EXPORTS
- DxDdCleanupDxGraphics=DxDdCleanupDxGraphics@0
- DxDdStartupDxGraphics=DxDdStartupDxGraphics@24

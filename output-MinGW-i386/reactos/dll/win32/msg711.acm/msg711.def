@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME msg711.acm
-
-EXPORTS
- DriverProc=G711_DriverProc@20 PRIVATE

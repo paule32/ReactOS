@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME kbdlv.dll
-
-EXPORTS
- KbdLayerDescriptor=KbdLayerDescriptor@0

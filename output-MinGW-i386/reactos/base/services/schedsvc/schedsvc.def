@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME schedsvc.dll
-
-EXPORTS
- SchedServiceMain=SchedServiceMain@8

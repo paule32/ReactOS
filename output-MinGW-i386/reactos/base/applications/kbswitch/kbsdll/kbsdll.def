@@ -1,7 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME kbsdll.dll
-
-EXPORTS
- KbSwitchSetHooks=KbSwitchSetHooks@0
- KbSwitchDeleteHooks=KbSwitchDeleteHooks@0

@@ -1,8 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME tcpip.sys
-
-EXPORTS
- IPAddInterface=IPAddInterface@20
- IPDelInterface=IPDelInterface@4
- LookupRoute=LookupRoute@8

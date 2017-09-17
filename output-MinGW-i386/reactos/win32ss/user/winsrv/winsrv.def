@@ -1,8 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME winsrv.dll
-
-EXPORTS
- ConServerDllInitialization=ConServerDllInitialization@4
- UserServerDllInitialization=UserServerDllInitialization@4
- _UserSoundSentry=_UserSoundSentry@0

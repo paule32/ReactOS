@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME msrle32.dll
-
-EXPORTS
- DriverProc=MSRLE32_DriverProc@20 PRIVATE

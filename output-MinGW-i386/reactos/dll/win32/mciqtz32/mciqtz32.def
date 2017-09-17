@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME mciqtz32.dll
-
-EXPORTS
- DriverProc=MCIQTZ_DriverProc@20 PRIVATE

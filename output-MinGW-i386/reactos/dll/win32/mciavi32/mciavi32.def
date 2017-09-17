@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME mciavi32.dll
-
-EXPORTS
- DriverProc=MCIAVI_DriverProc@20 PRIVATE

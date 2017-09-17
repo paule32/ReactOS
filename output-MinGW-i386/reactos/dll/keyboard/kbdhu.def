@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME kbdhu.dll
-
-EXPORTS
- KbdLayerDescriptor=KbdLayerDescriptor@0

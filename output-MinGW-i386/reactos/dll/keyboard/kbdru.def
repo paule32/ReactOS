@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME kbdru.dll
-
-EXPORTS
- KbdLayerDescriptor=KbdLayerDescriptor@0

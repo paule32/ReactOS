@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME joy.cpl
-
-EXPORTS
- CPlApplet=CPlApplet@16

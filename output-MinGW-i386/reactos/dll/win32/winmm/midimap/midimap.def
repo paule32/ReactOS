@@ -1,7 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME midimap.dll
-
-EXPORTS
- DriverProc=MIDIMAP_DriverProc@20
- modMessage=MIDIMAP_modMessage@20

@@ -1,9 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME compstui.dll
-
-EXPORTS
- CommonPropertySheetUIA=CommonPropertySheetUIA@16
- CommonPropertySheetUIW=CommonPropertySheetUIW@16
- GetCPSUIUserData=GetCPSUIUserData@4
- SetCPSUIUserData=SetCPSUIUserData@8

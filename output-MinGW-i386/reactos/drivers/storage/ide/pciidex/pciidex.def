@@ -1,8 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME pciidex.sys
-
-EXPORTS
- PciIdeXGetBusData=PciIdeXGetBusData@16
- PciIdeXInitialize=PciIdeXInitialize@16
- PciIdeXSetBusData=PciIdeXSetBusData@20

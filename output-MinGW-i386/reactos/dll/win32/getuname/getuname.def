@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME getuname.dll
-
-EXPORTS
- GetUName=GetUName@8

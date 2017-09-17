@@ -1,7 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME deskadp.dll
-
-EXPORTS
- DllCanUnloadNow=DllCanUnloadNow@0 PRIVATE
- DllGetClassObject=DllGetClassObject@12 PRIVATE

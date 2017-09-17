@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME localspl.dll
-
-EXPORTS
- InitializePrintProvidor=InitializePrintProvidor@12

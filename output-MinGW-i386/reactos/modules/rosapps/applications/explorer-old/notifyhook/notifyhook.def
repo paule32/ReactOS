@@ -1,9 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME notifyhook.dll
-
-EXPORTS
- DeinstallNotifyHook
- GetWindowModulePath
- GetWindowModulePathCopyData
- InstallNotifyHook

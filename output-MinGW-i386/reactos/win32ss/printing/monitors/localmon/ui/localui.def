@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME localui.dll
-
-EXPORTS
- InitializePrintMonitorUI=InitializePrintMonitorUI@0

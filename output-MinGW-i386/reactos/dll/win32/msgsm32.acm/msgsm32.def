@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME msgsm32.acm
-
-EXPORTS
- DriverProc=GSM_DriverProc@20 PRIVATE

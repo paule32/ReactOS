@@ -1,8 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME wmilib.sys
-
-EXPORTS
- WmiCompleteRequest=WmiCompleteRequest@20
- WmiFireEvent=WmiFireEvent@20
- WmiSystemControl=WmiSystemControl@16

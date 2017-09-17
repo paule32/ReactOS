@@ -1,8 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME hidclass.sys
-
-EXPORTS
- DllInitialize@4 PRIVATE
- DllUnload@0 PRIVATE
- HidRegisterMinidriver@4

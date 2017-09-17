@@ -1,7 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME uext2.dll
-
-EXPORTS
- ChkdskEx=Ext2Chkdsk@24
- FormatEx=Ext2Format@24

@@ -1,7 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME ufat.dll
-
-EXPORTS
- ChkdskEx=VfatChkdsk@24
- FormatEx=VfatFormat@24

@@ -1,7 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME acgenral.dll
-
-EXPORTS
- GetHookAPIs=GetHookAPIs@12
- NotifyShims=NotifyShims@8

@@ -1,8 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME advapi32_vista.dll
-
-EXPORTS
- RegDeleteTreeA=RegDeleteTreeA@8
- RegDeleteTreeW=RegDeleteTreeW@8
- RegSetKeyValueW=RegSetKeyValueW@24

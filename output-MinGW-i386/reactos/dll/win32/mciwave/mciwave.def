@@ -1,6 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME mciwave.dll
-
-EXPORTS
- DriverProc=MCIWAVE_DriverProc@20 PRIVATE

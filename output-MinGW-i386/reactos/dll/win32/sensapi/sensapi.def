@@ -1,8 +1,0 @@
-; File generated automatically, do not edit!
-
-NAME sensapi.dll
-
-EXPORTS
- IsDestinationReachableA=IsDestinationReachableA@8
- IsDestinationReachableW=IsDestinationReachableW@8
- IsNetworkAlive=IsNetworkAlive@4
